@@ -1,6 +1,6 @@
 {
  "format": "revierbuch-rechtsdaten",
- "version": "2026-11-10.2",
+ "version": "2026-11-10.3",
  "geprueftAm": "2026-11-10",
  "hinweis": "Jagdzeiten Brandenburg = Bundes-Jagdzeitenverordnung (JagdZeitV) mit den Abweichungen aus § 5 BbgJagdDV. Wild ohne festgesetzte Jagdzeit ist nach § 22 Abs. 2 BJagdG ganzjährig zu schonen. Bei ganzjähriger Jagdzeit gilt § 22 Abs. 4 BJagdG (Elterntierschutz). Tierseuchenrechtliche Allgemeinverfügungen (z. B. ASP-Restriktionszonen) und Schutzgebietsverordnungen gehen vor. Kormoran ist in Brandenburg nicht jagdbar; Abschüsse nur nach der Brandenburgischen Kormoranverordnung (BbgKorV): Sonnenaufgang bis -untergang, bis 500 m um Fischereigewässer und Teichwirtschaften, vom 16. März bis 15. August nur immature, nicht brütende Vögel, nicht in Schutzgebieten und befriedeten Bezirken, kein Bleischrot.",
  "quellen": [
@@ -67,6 +67,10 @@
   {
    "datum": "2026-11-10",
    "text": "Andere Bundesländer: Verlagstabellen entfernt. Amtlich ausgewertet: Bremen (BremJagdZVO 2019), Sachsen (SächsJagdVO § 4). Hamburg, Berlin und Baden-Württemberg: Verordnungswortlaut aus nicht amtlicher Rechtsdatenbank. Mecklenburg-Vorpommern, Thüringen, Sachsen-Anhalt, Schleswig-Holstein, Rheinland-Pfalz, Saarland: nur Bundesrahmen, Landesrecht nicht ausgewertet. Länderdaten sind jetzt Teil dieser Datei (Feld laender)."
+  },
+  {
+   "datum": "2026-11-10",
+   "text": "Bayern: Jagdzeiten Rotwild nach § 19 Abs. 1 Nr. 1 AVBayJG neu gefasst durch Verordnung zur Änderung der AVBayJG vom 13. Oktober 2026 (GVBl. S. 621), in Kraft seit 31. Oktober 2026: Kälber und Alttiere 16.7. bis 15.1., Schmaltiere und Schmalspießer 1.5. bis 15.1., übrige Hirsche 1.8. bis 15.1. (bisher 1.8./1.6. bis 31.1.). Sachsen: Hinweis auf Bekanntmachung Sachsenforst vom 22.06.2026 (SächsABl. 2026 Nr. 30 S. 620) ergänzt, Graureiher im Jagdjahr 2026/27 nur 16.8. bis 31.1., höchstens 250 Stück. Brandenburg und Bund unverändert (BbgJagdG 20.05.2026, BbgJagdDV 24.03.2026, JagdZeitV 07.03.2018, BJagdG 29.03.2026). Wolfsmanagementplan Brandenburg noch nicht bekannt gemacht (Vorstellung 11.11.2026)."
   }
  ],
  "wildarten": [
@@ -1672,23 +1676,31 @@
   "BY": {
    "qual": "A",
    "bund": false,
-   "stand": "AVBayJG § 19, Text gültig ab 01.04.2026",
+   "stand": "AVBayJG § 19, Text gültig ab 01.04.2026; Rotwild (Abs. 1 Nr. 1) neu gefasst durch VO vom 13.10.2026 (GVBl. S. 621), in Kraft 31.10.2026",
    "quelle": [
     [
      "AVBayJG § 19",
      "https://www.gesetze-bayern.de/Content/Document/BayAVJG-19"
+    ],
+    [
+     "Änderungsverordnung AVBayJG, GVBl. 2026 S. 621",
+     "https://www.verkuendung-bayern.de/gvbl/2026-621/"
     ]
    ],
    "hinweis": "Wolf und Fischotter nur nach naturschutzrechtlicher Ausnahme. Wildkaninchen, Waschbär, Marderhund, Nutria, Mink, Nilgans: Sonderregel Abs. 3 zu Setz- und Brutzeiten.",
    "zeiten": {
     "rot": [
      [
-      "Kälber, Alttiere, übrige Hirsche",
-      "1.8.-31.1."
+      "Kälber, Alttiere",
+      "16.7.-15.1."
      ],
      [
       "Schmaltiere, Schmalspießer",
-      "1.6.-31.1."
+      "1.5.-15.1."
+     ],
+     [
+      "Übrige Hirsche",
+      "1.8.-15.1."
      ]
     ],
     "dam": [
@@ -3244,6 +3256,10 @@
     [
      "Bundes-JagdZeitV § 1",
      "https://www.gesetze-im-internet.de/jagdzeitv_1977/BJNR005310977.html"
+    ],
+    [
+     "Bek. Sachsenforst Graureiher 2026/27 (REVOSAX)",
+     "https://revosax.sachsen.de/vorschrift/21611"
     ]
    ],
    "hinweis": "Die obere Jagdbehörde kann jährlich Beschränkungen zur Bestandessicherung im Sächsischen Amtsblatt bekannt machen (§ 4 Abs. 3). Graureiher nur im Umkreis von 200 m um bewirtschaftete Fischereianlagen. Nationalpark Sächsische Schweiz: Dam- und Muffelwild ganzjährig.",
@@ -3377,7 +3393,7 @@
      [
       "Graureiher",
       "1.8.-31.1.",
-      "nur 200 m um Fischereianlagen"
+      "nur 200 m um Fischereianlagen; Jagdjahr 2026/27 nur 16.8.-31.1., höchstens 250 Stück landesweit (SächsABl. 2026 Nr. 30 S. 620)"
      ]
     ],
     "kraehe": [
