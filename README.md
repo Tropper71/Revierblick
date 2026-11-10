@@ -10,6 +10,12 @@ Die App lädt die Datei über diese Adresse:
 https://raw.githubusercontent.com/Tropper71/revierkompass-daten/main/rechtsdaten.json
 ```
 
+## Handbuch
+
+[Revierkompass-Handbuch.pdf](docs/Revierkompass-Handbuch.pdf) (34 Seiten, Version 2.0.8, Stand 10.11.2026)
+
+Direkter Download: https://raw.githubusercontent.com/Tropper71/revierkompass-daten/main/docs/Revierkompass-Handbuch.pdf
+
 ## Inhalt
 
 - `wildarten`, `gesetz`, `verordnung`: Brandenburg (BbgJagdG, BbgJagdDV, JagdZeitV)
