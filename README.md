@@ -2,7 +2,7 @@
 
 # Revierblick
 
-Jagd-App für Android (bis Version 2.0.8: Revierkompass). Dieses Repository hieß bis 11.11.2026 `revierkompass-daten`.
+Jagd-App für Android.
 
 Rechtsdaten (Jagdzeiten und jagdrechtliche Hinweise) und Download der App **Revierblick**.
 
