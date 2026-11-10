@@ -1,8 +1,8 @@
 {
  "format": "revierbuch-rechtsdaten",
- "version": "2026-11-10.2",
+ "version": "2026-11-10.9",
  "geprueftAm": "2026-11-10",
- "hinweis": "Jagdzeiten Brandenburg = Bundes-Jagdzeitenverordnung (JagdZeitV) mit den Abweichungen aus § 5 BbgJagdDV. Wild ohne festgesetzte Jagdzeit ist nach § 22 Abs. 2 BJagdG ganzjährig zu schonen. Bei ganzjähriger Jagdzeit gilt § 22 Abs. 4 BJagdG (Elterntierschutz). Tierseuchenrechtliche Allgemeinverfügungen (z. B. ASP-Restriktionszonen) und Schutzgebietsverordnungen gehen vor. Kormoran ist in Brandenburg nicht jagdbar; Abschüsse nur nach der Brandenburgischen Kormoranverordnung (BbgKorV): Sonnenaufgang bis -untergang, bis 500 m um Fischereigewässer und Teichwirtschaften, vom 16. März bis 15. August nur immature, nicht brütende Vögel, nicht in Schutzgebieten und befriedeten Bezirken, kein Bleischrot.",
+ "hinweis": "TESTDATEI, NICHT ÜBERNEHMEN. Erfundene Änderungen zum Testen des Online-Updates. Jagdzeiten Brandenburg = Bundes-Jagdzeitenverordnung (JagdZeitV) mit den Abweichungen aus § 5 BbgJagdDV. Wild ohne festgesetzte Jagdzeit ist nach § 22 Abs. 2 BJagdG ganzjährig zu schonen. Bei ganzjähriger Jagdzeit gilt § 22 Abs. 4 BJagdG (Elterntierschutz). Tierseuchenrechtliche Allgemeinverfügungen (z. B. ASP-Restriktionszonen) und Schutzgebietsverordnungen gehen vor. Kormoran ist in Brandenburg nicht jagdbar; Abschüsse nur nach der Brandenburgischen Kormoranverordnung (BbgKorV): Sonnenaufgang bis -untergang, bis 500 m um Fischereigewässer und Teichwirtschaften, vom 16. März bis 15. August nur immature, nicht brütende Vögel, nicht in Schutzgebieten und befriedeten Bezirken, kein Bleischrot.",
  "quellen": [
   {
    "id": "bbgjagdg",
@@ -67,6 +67,10 @@
   {
    "datum": "2026-11-10",
    "text": "Andere Bundesländer: Verlagstabellen entfernt. Amtlich ausgewertet: Bremen (BremJagdZVO 2019), Sachsen (SächsJagdVO § 4). Hamburg, Berlin und Baden-Württemberg: Verordnungswortlaut aus nicht amtlicher Rechtsdatenbank. Mecklenburg-Vorpommern, Thüringen, Sachsen-Anhalt, Schleswig-Holstein, Rheinland-Pfalz, Saarland: nur Bundesrahmen, Landesrecht nicht ausgewertet. Länderdaten sind jetzt Teil dieser Datei (Feld laender)."
+  },
+  {
+   "datum": "2026-11-10",
+   "text": "TEST, NICHT ÜBERNEHMEN: Dachs Brandenburg 1.8.-31.12. und Sachsen Rehbock/Schmalreh ab 1.5. sind erfunden."
   }
  ],
  "wildarten": [
@@ -600,10 +604,10 @@
      "ranges": [
       [
        "08-01",
-       "01-31"
+       "12-31"
       ]
      ],
-     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 3"
+     "quelle": "TEST (erfunden)"
     }
    ]
   },
@@ -3275,7 +3279,8 @@
     "reh": [
      [
       "Böcke, Schmalrehe",
-      "16.4.-31.1."
+      "1.5.-31.1.",
+      "TEST (erfunden)"
      ],
      [
       "Kitze, Ricken",
