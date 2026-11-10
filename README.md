@@ -1,22 +1,22 @@
 <p align="center"><img src="icon.png" width="160" alt="Revierblick-Icon: Rehbock vor einem Mond mit Kompassskala"></p>
 
-# revierkompass-daten
+# Revierblick
 
-**Revierblick** (bis Version 2.0.8: Revierkompass)
+Jagd-App für Android (bis Version 2.0.8: Revierkompass). Dieses Repository hieß bis 11.11.2026 `revierkompass-daten`.
 
 Rechtsdaten (Jagdzeiten und jagdrechtliche Hinweise) und Download der App **Revierblick**.
 
 Die App lädt die Datei über diese Adresse:
 
 ```
-https://raw.githubusercontent.com/Tropper71/revierkompass-daten/main/rechtsdaten.json
+https://raw.githubusercontent.com/Tropper71/Revierblick/main/rechtsdaten.json
 ```
 
 ## App herunterladen
 
-[Revierblick-2.1.0.apk](app/Revierblick-2.1.0.apk) (Android 7.0 oder neuer)
+[Revierblick-2.1.1.apk](app/Revierblick-2.1.1.apk) (Android 7.0 oder neuer)
 
-Direkter Download: https://raw.githubusercontent.com/Tropper71/revierkompass-daten/main/app/Revierblick-2.1.0.apk
+Direkter Download: https://raw.githubusercontent.com/Tropper71/Revierblick/main/app/Revierblick-2.1.1.apk
 
 APK antippen, Installation aus dieser Quelle einmal erlauben. Updates werden einfach über die vorhandene Version installiert, alle Daten bleiben erhalten, auch beim Wechsel von Revierkompass auf Revierblick. Anleitung im Handbuch, Kapitel 2.
 
@@ -24,7 +24,7 @@ APK antippen, Installation aus dieser Quelle einmal erlauben. Updates werden ein
 
 [Revierblick-Handbuch.pdf](docs/Revierblick-Handbuch.pdf) (34 Seiten, Version 2.1.0, Stand 11.11.2026)
 
-Direkter Download: https://raw.githubusercontent.com/Tropper71/revierkompass-daten/main/docs/Revierblick-Handbuch.pdf
+Direkter Download: https://raw.githubusercontent.com/Tropper71/Revierblick/main/docs/Revierblick-Handbuch.pdf
 
 ## Inhalt
 
