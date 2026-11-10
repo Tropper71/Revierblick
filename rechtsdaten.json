@@ -1,0 +1,3808 @@
+{
+ "format": "revierbuch-rechtsdaten",
+ "version": "2026-11-10.2",
+ "geprueftAm": "2026-11-10",
+ "hinweis": "Jagdzeiten Brandenburg = Bundes-Jagdzeitenverordnung (JagdZeitV) mit den Abweichungen aus § 5 BbgJagdDV. Wild ohne festgesetzte Jagdzeit ist nach § 22 Abs. 2 BJagdG ganzjährig zu schonen. Bei ganzjähriger Jagdzeit gilt § 22 Abs. 4 BJagdG (Elterntierschutz). Tierseuchenrechtliche Allgemeinverfügungen (z. B. ASP-Restriktionszonen) und Schutzgebietsverordnungen gehen vor. Kormoran ist in Brandenburg nicht jagdbar; Abschüsse nur nach der Brandenburgischen Kormoranverordnung (BbgKorV): Sonnenaufgang bis -untergang, bis 500 m um Fischereigewässer und Teichwirtschaften, vom 16. März bis 15. August nur immature, nicht brütende Vögel, nicht in Schutzgebieten und befriedeten Bezirken, kein Bleischrot.",
+ "quellen": [
+  {
+   "id": "bbgjagdg",
+   "titel": "Jagdgesetz für das Land Brandenburg (BbgJagdG)",
+   "url": "https://bravors.brandenburg.de/gesetze/bbgjagdg",
+   "stand": "zuletzt geändert durch § 64 Absatz 2 Satz 1 dieses Gesetzes, Bekanntmachung vom 20. Mai 2026 (GVBl.I/26, [Nr. 17]) (geprüft 10.11.2026, keine neuere Änderung)"
+  },
+  {
+   "id": "bbgjagddv",
+   "titel": "Verordnung zur Durchführung des Jagdgesetzes für das Land Brandenburg (BbgJagdDV)",
+   "url": "https://bravors.brandenburg.de/verordnungen/bbgjagddv",
+   "stand": "zuletzt geändert durch Artikel 2 des Gesetzes vom 24. März 2026 (GVBl.I/26, [Nr. 8], S.3, ber. GVBl.I/26 [Nr. 10]) (geprüft 10.11.2026, keine neuere Änderung)"
+  },
+  {
+   "id": "jagdzeitv",
+   "titel": "Verordnung über die Jagdzeiten (JagdZeitV, Bund)",
+   "url": "https://www.gesetze-im-internet.de/jagdzeitv_1977/BJNR005310977.html",
+   "stand": "Zuletzt geändert durch Art. 2 V v. 7.3.2018 I 226"
+  },
+  {
+   "id": "bjagdg",
+   "titel": "Bundesjagdgesetz (BJagdG), § 2 Tierarten und §§ 22b bis 22f Wolf",
+   "url": "https://www.gesetze-im-internet.de/bjagdg/__2.html",
+   "stand": "Zuletzt geändert durch Artikel 1 des Gesetzes vom 29. März 2026 (BGBl. 2026 I Nr. 87)"
+  },
+  {
+   "id": "gvbl-2026-8",
+   "titel": "Gesetz zur Änderung jagdrechtlicher Vorschriften vom 24. März 2026 (GVBl. I Nr. 8)",
+   "url": "https://bravors.brandenburg.de/fm/76/GVBl_I_08_2026.pdf",
+   "stand": "Verkündet 24.03.2026"
+  },
+  {
+   "id": "bbgkorv",
+   "titel": "Brandenburgische Kormoranverordnung (BbgKorV)",
+   "url": "https://bravors.brandenburg.de/verordnungen/bbgkorv_2016",
+   "stand": "vom 27. September 2013, geändert durch Gesetz vom 25. Januar 2016 (GVBl. I/16, Nr. 5)"
+  },
+  {
+   "id": "mleuv-wolf",
+   "titel": "MLEUV Brandenburg: Wolfsmanagementplan (Pressetermin 11.11.2026)",
+   "url": "https://mleuv.brandenburg.de/mleuv/de/aktuelles/presseinformationen/detail/~03-11-2026-terminhinweis-pk-wolfsmanagementplan",
+   "stand": "Ankündigung vom 3. November 2026"
+  }
+ ],
+ "aenderungen": [
+  {
+   "datum": "2026-03-25",
+   "text": "Gesetz zur Änderung jagdrechtlicher Vorschriften: Jagdzeit für Rot-, Dam- und Rehwild endet am 15. Januar; Wolf und Wolfshybrid jagdbar (Wolf ganzjährig geschont, Wolfshybrid ganzjährig Jagdzeit); Muffelwild ganzjährig geschont; Mindestabschuss nur noch Rot- und Damwild Altersklasse 0; Streckenliste digital im Onlineportal Jagdstatistik."
+  },
+  {
+   "datum": "2026-04-02",
+   "text": "Bundesjagdgesetz: Wolf in § 2 BJagdG aufgenommen (BGBl. 2026 I Nr. 87). In Brandenburg bleibt der Wolf nach § 5 Abs. 3 BbgJagdDV ganzjährig geschont."
+  },
+  {
+   "datum": "2026-05-20",
+   "text": "BbgJagdG: § 37a (Umgang mit Wölfen und Wolfshybriden) ist nach § 64 Abs. 2 außer Kraft getreten, weil das Bundesjagdgesetz nun eigene Wolfsregeln enthält."
+  },
+  {
+   "datum": "2026-11-10",
+   "text": "Prüfung aller Quellen: BbgJagdG (Stand 20.05.2026) und BbgJagdDV (Stand 24.03.2026) unverändert, Jagdzeiten unverändert. Wolf: Nach § 22d Abs. 2 BJagdG ist eine Jagdzeit vom 1. Juli bis 31. Oktober nur bei günstigem Erhaltungszustand und einem behördlichen revierübergreifenden Managementplan möglich. Brandenburg hat den Plan als Allgemeinverfügung angekündigt (Vorstellung 11.11.2026); bis zu seiner Bekanntmachung bleibt der Wolf in Brandenburg ohne Jagdzeit (§ 5 Abs. 3 BbgJagdDV). Hinweis zur Kormoranverordnung ergänzt."
+  },
+  {
+   "datum": "2026-11-10",
+   "text": "Andere Bundesländer: Verlagstabellen entfernt. Amtlich ausgewertet: Bremen (BremJagdZVO 2019), Sachsen (SächsJagdVO § 4). Hamburg, Berlin und Baden-Württemberg: Verordnungswortlaut aus nicht amtlicher Rechtsdatenbank. Mecklenburg-Vorpommern, Thüringen, Sachsen-Anhalt, Schleswig-Holstein, Rheinland-Pfalz, Saarland: nur Bundesrahmen, Landesrecht nicht ausgewertet. Länderdaten sind jetzt Teil dieser Datei (Feld laender)."
+  }
+ ],
+ "wildarten": [
+  {
+   "id": "rotwild",
+   "name": "Rotwild",
+   "gruppe": "Haarwild",
+   "kategorie": "Schalenwild",
+   "plan": true,
+   "klassen": [
+    {
+     "id": "hk",
+     "name": "Hirschkalb (AK 0)",
+     "sex": "m",
+     "ak": "0",
+     "ranges": [
+      [
+       "08-01",
+       "01-15"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 1"
+    },
+    {
+     "id": "sp",
+     "name": "Schmalspießer (AK 1)",
+     "sex": "m",
+     "ak": "1",
+     "ranges": [
+      [
+       "04-16",
+       "01-15"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 1"
+    },
+    {
+     "id": "h2",
+     "name": "Hirsch AK 2",
+     "sex": "m",
+     "ak": "2",
+     "ranges": [
+      [
+       "08-01",
+       "01-15"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 1"
+    },
+    {
+     "id": "h3",
+     "name": "Hirsch AK 3",
+     "sex": "m",
+     "ak": "3",
+     "ranges": [
+      [
+       "08-01",
+       "01-15"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 1"
+    },
+    {
+     "id": "h4",
+     "name": "Hirsch AK 4",
+     "sex": "m",
+     "ak": "4",
+     "ranges": [
+      [
+       "08-01",
+       "01-15"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 1"
+    },
+    {
+     "id": "wk",
+     "name": "Wildkalb (AK 0)",
+     "sex": "w",
+     "ak": "0",
+     "ranges": [
+      [
+       "08-01",
+       "01-15"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 1"
+    },
+    {
+     "id": "st",
+     "name": "Schmaltier (AK 1)",
+     "sex": "w",
+     "ak": "1",
+     "ranges": [
+      [
+       "04-16",
+       "01-15"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 1"
+    },
+    {
+     "id": "at",
+     "name": "Alttier (AK 2)",
+     "sex": "w",
+     "ak": "2",
+     "ranges": [
+      [
+       "08-01",
+       "01-15"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 1"
+    }
+   ]
+  },
+  {
+   "id": "damwild",
+   "name": "Damwild",
+   "gruppe": "Haarwild",
+   "kategorie": "Schalenwild",
+   "plan": true,
+   "klassen": [
+    {
+     "id": "hk",
+     "name": "Hirschkalb (AK 0)",
+     "sex": "m",
+     "ak": "0",
+     "ranges": [
+      [
+       "08-01",
+       "01-15"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 1"
+    },
+    {
+     "id": "sp",
+     "name": "Schmalspießer (AK 1)",
+     "sex": "m",
+     "ak": "1",
+     "ranges": [
+      [
+       "04-16",
+       "01-15"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 1"
+    },
+    {
+     "id": "h2",
+     "name": "Hirsch AK 2",
+     "sex": "m",
+     "ak": "2",
+     "ranges": [
+      [
+       "08-01",
+       "01-15"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 1"
+    },
+    {
+     "id": "h3",
+     "name": "Hirsch AK 3",
+     "sex": "m",
+     "ak": "3",
+     "ranges": [
+      [
+       "08-01",
+       "01-15"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 1"
+    },
+    {
+     "id": "h4",
+     "name": "Hirsch AK 4",
+     "sex": "m",
+     "ak": "4",
+     "ranges": [
+      [
+       "08-01",
+       "01-15"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 1"
+    },
+    {
+     "id": "wk",
+     "name": "Wildkalb (AK 0)",
+     "sex": "w",
+     "ak": "0",
+     "ranges": [
+      [
+       "08-01",
+       "01-15"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 1"
+    },
+    {
+     "id": "st",
+     "name": "Schmaltier (AK 1)",
+     "sex": "w",
+     "ak": "1",
+     "ranges": [
+      [
+       "04-16",
+       "01-15"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 1"
+    },
+    {
+     "id": "at",
+     "name": "Alttier (AK 2)",
+     "sex": "w",
+     "ak": "2",
+     "ranges": [
+      [
+       "08-01",
+       "01-15"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 1"
+    }
+   ]
+  },
+  {
+   "id": "rehwild",
+   "name": "Rehwild",
+   "gruppe": "Haarwild",
+   "kategorie": "Schalenwild",
+   "plan": false,
+   "hinweis": "Kein Abschussplan für Rehwild (§ 29 BbgJagdG).",
+   "klassen": [
+    {
+     "id": "bock",
+     "name": "Rehbock",
+     "sex": "m",
+     "ranges": [
+      [
+       "04-16",
+       "01-15"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 2"
+    },
+    {
+     "id": "schmalreh",
+     "name": "Schmalreh",
+     "sex": "w",
+     "ranges": [
+      [
+       "04-16",
+       "01-15"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 2"
+    },
+    {
+     "id": "ricke",
+     "name": "Ricke",
+     "sex": "w",
+     "ranges": [
+      [
+       "09-01",
+       "01-15"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 2"
+    },
+    {
+     "id": "kitzm",
+     "name": "Bockkitz",
+     "sex": "m",
+     "ranges": [
+      [
+       "09-01",
+       "01-15"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 2"
+    },
+    {
+     "id": "kitzw",
+     "name": "Rickenkitz",
+     "sex": "w",
+     "ranges": [
+      [
+       "09-01",
+       "01-15"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 2"
+    }
+   ]
+  },
+  {
+   "id": "schwarzwild",
+   "name": "Schwarzwild",
+   "gruppe": "Haarwild",
+   "kategorie": "Schalenwild",
+   "plan": true,
+   "hinweis": "Ganzjährig unter Beachtung von § 22 Abs. 4 BJagdG (führende Bachen schonen). ASP-Allgemeinverfügungen des Landkreises beachten.",
+   "klassen": [
+    {
+     "id": "frischling",
+     "name": "Frischling",
+     "ranges": "ganzjaehrig",
+     "quelle": "JagdZeitV § 1 Abs. 2"
+    },
+    {
+     "id": "ueberlaeufer",
+     "name": "Überläufer",
+     "ranges": "ganzjaehrig",
+     "quelle": "JagdZeitV § 1 Abs. 2"
+    },
+    {
+     "id": "keiler",
+     "name": "Keiler",
+     "sex": "m",
+     "ranges": "ganzjaehrig",
+     "quelle": "JagdZeitV § 1 Abs. 2"
+    },
+    {
+     "id": "bache",
+     "name": "Bache",
+     "sex": "w",
+     "ranges": "ganzjaehrig",
+     "quelle": "JagdZeitV § 1 Abs. 2"
+    }
+   ]
+  },
+  {
+   "id": "sikawild",
+   "name": "Sikawild",
+   "gruppe": "Haarwild",
+   "kategorie": "Schalenwild",
+   "plan": true,
+   "klassen": [
+    {
+     "id": "kalb",
+     "name": "Kalb",
+     "ranges": [
+      [
+       "09-01",
+       "02-28"
+      ]
+     ],
+     "quelle": "JagdZeitV § 1 Abs. 1 Nr. 2"
+    },
+    {
+     "id": "sp",
+     "name": "Schmalspießer",
+     "sex": "m",
+     "ranges": [
+      [
+       "07-01",
+       "02-28"
+      ]
+     ],
+     "quelle": "JagdZeitV § 1 Abs. 1 Nr. 2"
+    },
+    {
+     "id": "st",
+     "name": "Schmaltier",
+     "sex": "w",
+     "ranges": [
+      [
+       "07-01",
+       "01-31"
+      ]
+     ],
+     "quelle": "JagdZeitV § 1 Abs. 1 Nr. 2"
+    },
+    {
+     "id": "ha",
+     "name": "Hirsch, Alttier",
+     "ranges": [
+      [
+       "09-01",
+       "01-31"
+      ]
+     ],
+     "quelle": "JagdZeitV § 1 Abs. 1 Nr. 2"
+    }
+   ]
+  },
+  {
+   "id": "gamswild",
+   "name": "Gamswild",
+   "gruppe": "Haarwild",
+   "kategorie": "Schalenwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Gamswild",
+     "ranges": [
+      [
+       "08-01",
+       "12-15"
+      ]
+     ],
+     "quelle": "JagdZeitV § 1 Abs. 1 Nr. 4"
+    }
+   ]
+  },
+  {
+   "id": "muffelwild",
+   "name": "Muffelwild",
+   "gruppe": "Haarwild",
+   "kategorie": "Schalenwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Muffelwild",
+     "ranges": "geschont",
+     "quelle": "BbgJagdDV § 5 Abs. 3"
+    }
+   ]
+  },
+  {
+   "id": "elch",
+   "name": "Elchwild",
+   "gruppe": "Haarwild",
+   "kategorie": "Schalenwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Elchwild",
+     "ranges": "geschont",
+     "quelle": "§ 22 Abs. 2 BJagdG (keine Jagdzeit)"
+    }
+   ]
+  },
+  {
+   "id": "wisent",
+   "name": "Wisent",
+   "gruppe": "Haarwild",
+   "kategorie": "Schalenwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Wisent",
+     "ranges": "geschont",
+     "quelle": "§ 22 Abs. 2 BJagdG (keine Jagdzeit)"
+    }
+   ]
+  },
+  {
+   "id": "steinwild",
+   "name": "Steinwild",
+   "gruppe": "Haarwild",
+   "kategorie": "Schalenwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Steinwild",
+     "ranges": "geschont",
+     "quelle": "§ 22 Abs. 2 BJagdG (keine Jagdzeit)"
+    }
+   ]
+  },
+  {
+   "id": "fuchs",
+   "name": "Fuchs",
+   "gruppe": "Haarwild",
+   "kategorie": "Raubwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Fuchs",
+     "ranges": "ganzjaehrig",
+     "quelle": "JagdZeitV § 1 Abs. 2, § 22 Abs. 4 BJagdG beachten"
+    }
+   ]
+  },
+  {
+   "id": "waschbaer",
+   "name": "Waschbär",
+   "gruppe": "Haarwild",
+   "kategorie": "Raubwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Waschbär",
+     "ranges": "ganzjaehrig",
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 5"
+    }
+   ]
+  },
+  {
+   "id": "marderhund",
+   "name": "Marderhund",
+   "gruppe": "Haarwild",
+   "kategorie": "Raubwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Marderhund",
+     "ranges": "ganzjaehrig",
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 5"
+    }
+   ]
+  },
+  {
+   "id": "mink",
+   "name": "Mink",
+   "gruppe": "Haarwild",
+   "kategorie": "Raubwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Mink",
+     "ranges": "ganzjaehrig",
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 5"
+    }
+   ]
+  },
+  {
+   "id": "dachs",
+   "name": "Dachs",
+   "gruppe": "Haarwild",
+   "kategorie": "Raubwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Dachs",
+     "ranges": [
+      [
+       "08-01",
+       "01-31"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 3"
+    }
+   ]
+  },
+  {
+   "id": "steinmarder",
+   "name": "Steinmarder",
+   "gruppe": "Haarwild",
+   "kategorie": "Raubwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Steinmarder",
+     "ranges": [
+      [
+       "09-01",
+       "02-28"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 4"
+    }
+   ]
+  },
+  {
+   "id": "baummarder",
+   "name": "Baummarder",
+   "gruppe": "Haarwild",
+   "kategorie": "Raubwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Baummarder",
+     "ranges": [
+      [
+       "09-01",
+       "02-28"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 4"
+    }
+   ]
+  },
+  {
+   "id": "iltis",
+   "name": "Iltis",
+   "gruppe": "Haarwild",
+   "kategorie": "Raubwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Iltis",
+     "ranges": "geschont",
+     "quelle": "BbgJagdDV § 5 Abs. 3"
+    }
+   ]
+  },
+  {
+   "id": "hermelin",
+   "name": "Hermelin",
+   "gruppe": "Haarwild",
+   "kategorie": "Raubwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Hermelin",
+     "ranges": "geschont",
+     "quelle": "BbgJagdDV § 5 Abs. 3"
+    }
+   ]
+  },
+  {
+   "id": "mauswiesel",
+   "name": "Mauswiesel",
+   "gruppe": "Haarwild",
+   "kategorie": "Raubwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Mauswiesel",
+     "ranges": "geschont",
+     "quelle": "BbgJagdDV § 5 Abs. 3"
+    }
+   ]
+  },
+  {
+   "id": "wolf",
+   "name": "Wolf",
+   "gruppe": "Haarwild",
+   "kategorie": "Raubwild",
+   "hinweis": "Kein Aneignungsrecht. Erlegung oder Fund unverzüglich der unteren Jagdbehörde melden. Bundesrecht: Jagdzeit 1.7. bis 31.10. nur mit behördlichem revierübergreifendem Managementplan (§ 22d Abs. 2 BJagdG); Entnahmen bei Schäden nur nach § 22d Abs. 3 BJagdG. Brandenburg: Managementplan als Allgemeinverfügung angekündigt (11.11.2026), bis zur Bekanntmachung keine Jagdzeit (§ 5 Abs. 3 BbgJagdDV). Vor jeder Entnahme die untere Jagdbehörde fragen.",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Wolf",
+     "ranges": "geschont",
+     "quelle": "BbgJagdDV § 5 Abs. 3"
+    }
+   ]
+  },
+  {
+   "id": "wolfshybrid",
+   "name": "Wolfshybrid",
+   "gruppe": "Haarwild",
+   "kategorie": "Raubwild",
+   "hinweis": "Kein Aneignungsrecht. Erlegung nur nach den Sonderregeln (BJagdG § 22f, Wolfsverordnung); Meldung an die untere Jagdbehörde.",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Wolfshybrid",
+     "ranges": "ganzjaehrig",
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 6"
+    }
+   ]
+  },
+  {
+   "id": "wildkatze",
+   "name": "Wildkatze",
+   "gruppe": "Haarwild",
+   "kategorie": "Raubwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Wildkatze",
+     "ranges": "geschont",
+     "quelle": "§ 22 Abs. 2 BJagdG (keine Jagdzeit)"
+    }
+   ]
+  },
+  {
+   "id": "luchs",
+   "name": "Luchs",
+   "gruppe": "Haarwild",
+   "kategorie": "Raubwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Luchs",
+     "ranges": "geschont",
+     "quelle": "§ 22 Abs. 2 BJagdG (keine Jagdzeit)"
+    }
+   ]
+  },
+  {
+   "id": "fischotter",
+   "name": "Fischotter",
+   "gruppe": "Haarwild",
+   "kategorie": "Raubwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Fischotter",
+     "ranges": "geschont",
+     "quelle": "§ 22 Abs. 2 BJagdG (keine Jagdzeit)"
+    }
+   ]
+  },
+  {
+   "id": "seehund",
+   "name": "Seehund",
+   "gruppe": "Haarwild",
+   "kategorie": "Raubwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Seehund",
+     "ranges": "geschont",
+     "quelle": "§ 22 Abs. 2 BJagdG (keine Jagdzeit)"
+    }
+   ]
+  },
+  {
+   "id": "feldhase",
+   "name": "Feldhase",
+   "gruppe": "Haarwild",
+   "kategorie": "Niederwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Feldhase",
+     "ranges": [
+      [
+       "10-01",
+       "01-15"
+      ]
+     ],
+     "quelle": "JagdZeitV § 1 Abs. 1 Nr. 7"
+    }
+   ]
+  },
+  {
+   "id": "wildkaninchen",
+   "name": "Wildkaninchen",
+   "gruppe": "Haarwild",
+   "kategorie": "Niederwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Wildkaninchen",
+     "ranges": "ganzjaehrig",
+     "quelle": "JagdZeitV § 1 Abs. 2"
+    }
+   ]
+  },
+  {
+   "id": "schneehase",
+   "name": "Schneehase",
+   "gruppe": "Haarwild",
+   "kategorie": "Niederwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Schneehase",
+     "ranges": "geschont",
+     "quelle": "§ 22 Abs. 2 BJagdG (keine Jagdzeit)"
+    }
+   ]
+  },
+  {
+   "id": "murmeltier",
+   "name": "Murmeltier",
+   "gruppe": "Haarwild",
+   "kategorie": "Niederwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Murmeltier",
+     "ranges": "geschont",
+     "quelle": "§ 22 Abs. 2 BJagdG (keine Jagdzeit)"
+    }
+   ]
+  },
+  {
+   "id": "stockente",
+   "name": "Stockente",
+   "gruppe": "Federwild",
+   "kategorie": "Wasserwild",
+   "hinweis": "Bleihaltiger Schrot an und über Gewässern verboten (BbgJagdDV § 4 Abs. 10).",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Stockente",
+     "ranges": [
+      [
+       "09-01",
+       "01-31"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 11"
+    }
+   ]
+  },
+  {
+   "id": "wildenten",
+   "name": "Übrige Wildenten",
+   "gruppe": "Federwild",
+   "kategorie": "Wasserwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Alle Enten außer Stockente",
+     "ranges": "geschont",
+     "quelle": "BbgJagdDV § 5 Abs. 3"
+    }
+   ]
+  },
+  {
+   "id": "graugans",
+   "name": "Graugans",
+   "gruppe": "Federwild",
+   "kategorie": "Wasserwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Graugans",
+     "ranges": [
+      [
+       "08-01",
+       "01-31"
+      ]
+     ],
+     "einschraenkungen": [
+      {
+       "von": "09-01",
+       "bis": "10-31",
+       "text": "nur zur Schadensabwehr auf gefährdeten Ackerkulturen"
+      },
+      {
+       "von": "01-16",
+       "bis": "01-31",
+       "text": "nur zur Schadensabwehr auf gefährdeten Ackerkulturen"
+      }
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 8"
+    }
+   ]
+  },
+  {
+   "id": "kanadagans",
+   "name": "Kanadagans",
+   "gruppe": "Federwild",
+   "kategorie": "Wasserwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Kanadagans",
+     "ranges": [
+      [
+       "08-01",
+       "01-31"
+      ]
+     ],
+     "einschraenkungen": [
+      {
+       "von": "09-01",
+       "bis": "10-31",
+       "text": "nur zur Schadensabwehr auf gefährdeten Ackerkulturen"
+      },
+      {
+       "von": "01-16",
+       "bis": "01-31",
+       "text": "nur zur Schadensabwehr auf gefährdeten Ackerkulturen"
+      }
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 8"
+    }
+   ]
+  },
+  {
+   "id": "nilgans",
+   "name": "Nilgans",
+   "gruppe": "Federwild",
+   "kategorie": "Wasserwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Nilgans",
+     "ranges": "ganzjaehrig",
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 9"
+    }
+   ]
+  },
+  {
+   "id": "nordgaense",
+   "name": "Blässgans, Saatgans, Ringelgans",
+   "gruppe": "Federwild",
+   "kategorie": "Wasserwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Bläss-, Saat- (inkl. Waldsaat-), Ringelgans",
+     "ranges": "geschont",
+     "quelle": "BbgJagdDV § 5 Abs. 3"
+    }
+   ]
+  },
+  {
+   "id": "hoeckerschwan",
+   "name": "Höckerschwan",
+   "gruppe": "Federwild",
+   "kategorie": "Wasserwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Höckerschwan",
+     "ranges": [
+      [
+       "11-01",
+       "02-20"
+      ]
+     ],
+     "quelle": "JagdZeitV § 1 Abs. 1 Nr. 18"
+    }
+   ]
+  },
+  {
+   "id": "blaesshuhn",
+   "name": "Blässhuhn",
+   "gruppe": "Federwild",
+   "kategorie": "Wasserwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Blässhuhn",
+     "ranges": [
+      [
+       "09-11",
+       "02-20"
+      ]
+     ],
+     "quelle": "JagdZeitV § 1 Abs. 1 Nr. 24"
+    }
+   ]
+  },
+  {
+   "id": "moewen",
+   "name": "Möwen",
+   "gruppe": "Federwild",
+   "kategorie": "Wasserwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Möwen",
+     "ranges": [
+      [
+       "09-01",
+       "01-31"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 12"
+    }
+   ]
+  },
+  {
+   "id": "saeger",
+   "name": "Säger",
+   "gruppe": "Federwild",
+   "kategorie": "Wasserwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Säger",
+     "ranges": "geschont",
+     "quelle": "§ 22 Abs. 2 BJagdG (keine Jagdzeit)"
+    }
+   ]
+  },
+  {
+   "id": "haubentaucher",
+   "name": "Haubentaucher",
+   "gruppe": "Federwild",
+   "kategorie": "Wasserwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Haubentaucher",
+     "ranges": "geschont",
+     "quelle": "§ 22 Abs. 2 BJagdG (keine Jagdzeit)"
+    }
+   ]
+  },
+  {
+   "id": "graureiher",
+   "name": "Graureiher",
+   "gruppe": "Federwild",
+   "kategorie": "Wasserwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Graureiher",
+     "ranges": "geschont",
+     "quelle": "§ 22 Abs. 2 BJagdG (keine Jagdzeit)"
+    }
+   ]
+  },
+  {
+   "id": "ringeltaube",
+   "name": "Ringeltaube",
+   "gruppe": "Federwild",
+   "kategorie": "Flugwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Ringeltaube",
+     "ranges": [
+      [
+       "09-01",
+       "01-31"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 10"
+    }
+   ]
+  },
+  {
+   "id": "tuerkentaube",
+   "name": "Türkentaube",
+   "gruppe": "Federwild",
+   "kategorie": "Flugwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Türkentaube",
+     "ranges": [
+      [
+       "11-01",
+       "02-20"
+      ]
+     ],
+     "quelle": "JagdZeitV § 1 Abs. 1 Nr. 17"
+    }
+   ]
+  },
+  {
+   "id": "rabenkraehe",
+   "name": "Rabenkrähe",
+   "gruppe": "Federwild",
+   "kategorie": "Flugwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Rabenkrähe",
+     "ranges": [
+      [
+       "09-01",
+       "01-31"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 7"
+    }
+   ]
+  },
+  {
+   "id": "nebelkraehe",
+   "name": "Nebelkrähe",
+   "gruppe": "Federwild",
+   "kategorie": "Flugwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Nebelkrähe",
+     "ranges": [
+      [
+       "09-01",
+       "01-31"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 7"
+    }
+   ]
+  },
+  {
+   "id": "elster",
+   "name": "Elster",
+   "gruppe": "Federwild",
+   "kategorie": "Flugwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Elster",
+     "ranges": [
+      [
+       "09-01",
+       "01-31"
+      ]
+     ],
+     "quelle": "BbgJagdDV § 5 Abs. 2 Nr. 7"
+    }
+   ]
+  },
+  {
+   "id": "waldschnepfe",
+   "name": "Waldschnepfe",
+   "gruppe": "Federwild",
+   "kategorie": "Flugwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Waldschnepfe",
+     "ranges": [
+      [
+       "10-16",
+       "01-15"
+      ]
+     ],
+     "quelle": "JagdZeitV § 1 Abs. 1 Nr. 23"
+    }
+   ]
+  },
+  {
+   "id": "wildtauben",
+   "name": "Übrige Wildtauben",
+   "gruppe": "Federwild",
+   "kategorie": "Flugwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "z. B. Hohltaube, Turteltaube",
+     "ranges": "geschont",
+     "quelle": "§ 22 Abs. 2 BJagdG (keine Jagdzeit)"
+    }
+   ]
+  },
+  {
+   "id": "kolkrabe",
+   "name": "Kolkrabe",
+   "gruppe": "Federwild",
+   "kategorie": "Flugwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Kolkrabe",
+     "ranges": "geschont",
+     "quelle": "§ 22 Abs. 2 BJagdG (keine Jagdzeit)"
+    }
+   ]
+  },
+  {
+   "id": "greife",
+   "name": "Greife und Falken",
+   "gruppe": "Federwild",
+   "kategorie": "Flugwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Greife und Falken",
+     "ranges": "geschont",
+     "quelle": "§ 22 Abs. 2 BJagdG (keine Jagdzeit)"
+    }
+   ]
+  },
+  {
+   "id": "fasan",
+   "name": "Fasan",
+   "gruppe": "Federwild",
+   "kategorie": "Feldwild",
+   "hinweis": "Keine Jagd im Jahr des Aussetzens (BbgJagdDV § 5 Abs. 4).",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Fasan",
+     "ranges": [
+      [
+       "10-01",
+       "01-15"
+      ]
+     ],
+     "quelle": "JagdZeitV § 1 Abs. 1 Nr. 14"
+    }
+   ]
+  },
+  {
+   "id": "rebhuhn",
+   "name": "Rebhuhn",
+   "gruppe": "Federwild",
+   "kategorie": "Feldwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Rebhuhn",
+     "ranges": "geschont",
+     "quelle": "BbgJagdDV § 5 Abs. 3"
+    }
+   ]
+  },
+  {
+   "id": "wildtruthuhn",
+   "name": "Wildtruthuhn",
+   "gruppe": "Federwild",
+   "kategorie": "Feldwild",
+   "klassen": [
+    {
+     "id": "hahn",
+     "name": "Wildtruthahn",
+     "sex": "m",
+     "ranges": [
+      [
+       "03-15",
+       "05-15"
+      ],
+      [
+       "10-01",
+       "01-15"
+      ]
+     ],
+     "quelle": "JagdZeitV § 1 Abs. 1 Nr. 15"
+    },
+    {
+     "id": "henne",
+     "name": "Wildtruthenne",
+     "sex": "w",
+     "ranges": [
+      [
+       "10-01",
+       "01-15"
+      ]
+     ],
+     "quelle": "JagdZeitV § 1 Abs. 1 Nr. 16"
+    }
+   ]
+  },
+  {
+   "id": "wachtel",
+   "name": "Wachtel",
+   "gruppe": "Federwild",
+   "kategorie": "Feldwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Wachtel",
+     "ranges": "geschont",
+     "quelle": "§ 22 Abs. 2 BJagdG (keine Jagdzeit)"
+    }
+   ]
+  },
+  {
+   "id": "rauhfusshuehner",
+   "name": "Auer-, Birk-, Rackel-, Haselwild, Alpenschneehuhn",
+   "gruppe": "Federwild",
+   "kategorie": "Feldwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Raufußhühner",
+     "ranges": "geschont",
+     "quelle": "§ 22 Abs. 2 BJagdG (keine Jagdzeit)"
+    }
+   ]
+  },
+  {
+   "id": "grosstrappe",
+   "name": "Großtrappe",
+   "gruppe": "Federwild",
+   "kategorie": "Feldwild",
+   "klassen": [
+    {
+     "id": "alle",
+     "name": "Großtrappe",
+     "ranges": "geschont",
+     "quelle": "§ 22 Abs. 2 BJagdG (keine Jagdzeit)"
+    }
+   ]
+  }
+ ],
+ "gesetz": {
+  "titel": "Jagdgesetz für das Land Brandenburg (BbgJagdG)",
+  "url": "https://bravors.brandenburg.de/gesetze/bbgjagdg",
+  "abschnitte": [
+   {
+    "titel": "Abschnitt 1: Grundsätze",
+    "paragraphen": [
+     [
+      "1",
+      "Gesetzeszweck",
+      "Wild als Teil der heimischen Natur erhalten: gesunde, artenreiche Bestände, Schutz bedrohter Arten, Begrenzung von Wildschäden, Ausgleich mit Naturschutz und Erholung."
+     ]
+    ]
+   },
+   {
+    "titel": "Abschnitt 2: Jagdbezirke und Hegegemeinschaften",
+    "paragraphen": [
+     [
+      "2",
+      "Gestaltung der Jagdbezirke",
+      ""
+     ],
+     [
+      "3",
+      "Zerschneidung von Lebensräumen",
+      ""
+     ],
+     [
+      "4",
+      "Entschädigung bei Angliederung von Flächen",
+      ""
+     ],
+     [
+      "5",
+      "Befriedete Bezirke, Ruhen der Jagd",
+      ""
+     ],
+     [
+      "6",
+      "Verantwortlicher Jagdbezirksinhaber (Jagdausübungsberechtigter)",
+      ""
+     ],
+     [
+      "7",
+      "Eigenjagdbezirke",
+      ""
+     ],
+     [
+      "8",
+      "Jagdflächen des Landes und des Bundes",
+      ""
+     ],
+     [
+      "9",
+      "Gemeinschaftliche Jagdbezirke",
+      ""
+     ],
+     [
+      "10",
+      "Jagdgenossenschaft",
+      ""
+     ],
+     [
+      "11",
+      "Jagdnutzung",
+      ""
+     ],
+     [
+      "12",
+      "Aufgaben und räumlicher Wirkungsbereich der Hegegemeinschaften",
+      ""
+     ]
+    ]
+   },
+   {
+    "titel": "Abschnitt 3: Beteiligung Dritter an der Ausübung des Jagdrechts",
+    "paragraphen": [
+     [
+      "13",
+      "Verpachtung",
+      ""
+     ],
+     [
+      "14",
+      "Mehrzahl von Jagdpächtern",
+      "Bis 250 ha höchstens zwei Pächter; in größeren Bezirken je weiterem Pächter mindestens 75 ha."
+     ],
+     [
+      "15",
+      "Eintragung in den Jagdschein",
+      ""
+     ],
+     [
+      "16",
+      "Jagderlaubnis",
+      ""
+     ],
+     [
+      "17",
+      "Nichtigkeit von Jagdpachtverträgen und Jagderlaubnisverträgen",
+      ""
+     ],
+     [
+      "18",
+      "Tod des Jagdpächters",
+      ""
+     ]
+    ]
+   },
+   {
+    "titel": "Abschnitt 4: Schutz des Wildes und seiner Lebensräume",
+    "paragraphen": [
+     [
+      "19",
+      "Wildschutzgebiete",
+      ""
+     ],
+     [
+      "20",
+      "Jagdgatter",
+      ""
+     ],
+     [
+      "21",
+      "Eingewöhnungs-, Fang- und Quarantänegatter",
+      ""
+     ],
+     [
+      "22",
+      "Führung von Hunden",
+      ""
+     ]
+    ]
+   },
+   {
+    "titel": "Abschnitt 5: Förderung des Jagdwesens",
+    "paragraphen": [
+     [
+      "23",
+      "Aufkommen, Gegenstand und Verfahren der Förderung (Jagdabgabe)",
+      "Jagdabgabe je Jagdjahr: 25 Euro Jahresjagdschein, 5 Euro Tagesjagdschein (BbgJagdDV § 2)."
+     ]
+    ]
+   },
+   {
+    "titel": "Abschnitt 6: Jagdausübung",
+    "paragraphen": [
+     [
+      "24",
+      "Jägerprüfung, Falknerprüfung, Jagdschein",
+      ""
+     ],
+     [
+      "25",
+      "Gruppenhaftpflichtversicherung",
+      ""
+     ],
+     [
+      "26",
+      "Sachliche Gebote und Verbote",
+      "Nachtjagd auf Schalenwild außer Schwarzwild verboten (befristete Ausnahmen möglich). Unbefugtes Stören der Jagd verboten. Einzelheiten in BbgJagdDV § 3."
+     ],
+     [
+      "27",
+      "Meldepflicht",
+      "Wildunfälle mit Kfz sowie gefundenes krankes oder verendetes Wild sind zu melden, auch wenn sich das Tier scheinbar unverletzt entfernt."
+     ],
+     [
+      "28",
+      "Örtliche Beschränkungen",
+      ""
+     ],
+     [
+      "29",
+      "Regelung der Bejagung",
+      "Abschussplan für Schalenwild außer Rehwild jährlich bis 15. März digital an die untere Jagdbehörde. Bestätigung oder Festsetzung durch die Behörde. Streckenliste und Meldung kranken Wildes."
+     ],
+     [
+      "30",
+      "Abschussverbot",
+      ""
+     ],
+     [
+      "31",
+      "Jagd- und Schonzeiten",
+      "Land setzt Jagdzeiten per Verordnung fest (BbgJagdDV § 5) und kann weitere Arten dem Jagdrecht unterstellen. Einzelfallausnahmen möglich (Abs. 5 neu seit 2026)."
+     ],
+     [
+      "32",
+      "Wegerecht, Jägernotweg",
+      ""
+     ],
+     [
+      "33",
+      "Jagdeinrichtungen",
+      "Feste Hochsitze, Fütterungen, Fanganlagen auf land- und forstwirtschaftlichen Flächen brauchen die Einwilligung des Eigentümers oder Nutzers; Duldungspflicht bei Zumutbarkeit gegen Entschädigung."
+     ],
+     [
+      "34",
+      "Nachsuchen und Wildfolge",
+      "Krankes Wild weidgerecht nachsuchen. Wildfolgevereinbarungen mit Nachbarn schriftlich treffen; sonst gesetzliche Regeln."
+     ],
+     [
+      "35",
+      "Bestätigte Schweißhundeführer",
+      "Siehe BbgJagdDV § 6."
+     ],
+     [
+      "36",
+      "Verfolgung kranken oder krank geschossenen Wildes in befriedeten Bezirken",
+      ""
+     ],
+     [
+      "37",
+      "Einsatz von Jagdgebrauchshunden",
+      ""
+     ]
+    ]
+   },
+   {
+    "titel": "Abschnitt 7: Jagdschutz",
+    "paragraphen": [
+     [
+      "38",
+      "Inhalt des Jagdschutzes, Pflicht zur Ausübung des Jagdschutzes",
+      ""
+     ],
+     [
+      "39",
+      "Jagdschutzberechtigte",
+      ""
+     ],
+     [
+      "40",
+      "Aufgaben und Befugnisse der Jagdschutzberechtigten",
+      ""
+     ],
+     [
+      "41",
+      "Natürliche Äsung; Fütterung des Wildes",
+      "Fütterung von Schalenwild außer in Notzeiten verboten (Ausnahmen u. a. Ablenkfütterung). Einzelheiten zu Kirrung und Fütterung in BbgJagdDV § 7."
+     ]
+    ]
+   },
+   {
+    "titel": "Abschnitt 8: Wild- und Jagdschaden (§§ 42 bis 53)",
+    "paragraphen": [
+     [
+      "42",
+      "Aussetzen und Ansiedeln von Tierarten",
+      ""
+     ],
+     [
+      "43–53",
+      "Wildschaden, Anmeldung, Vorverfahren, Schätzer, Kosten, Rechtsweg",
+      "Wildschäden sind fristgerecht bei der Gemeinde anzumelden. Kosten des Vorverfahrens: BbgJagdDV § 9."
+     ]
+    ]
+   },
+   {
+    "titel": "Abschnitt 9 bis 12 (§§ 54 bis 64)",
+    "paragraphen": [
+     [
+      "54",
+      "Überwachung des Wildhandels",
+      ""
+     ],
+     [
+      "55–59",
+      "Jagdbehörden, Beiräte, Landesvereinigungen, Zuständigkeiten, Anordnungen",
+      ""
+     ],
+     [
+      "60–61",
+      "Ordnungswidrigkeiten, Verbot der Jagdausübung, Einziehung",
+      ""
+     ],
+     [
+      "62–64",
+      "Übergangs- und Ausführungsvorschriften, Inkrafttreten",
+      ""
+     ]
+    ]
+   }
+  ]
+ },
+ "verordnung": {
+  "titel": "Verordnung zur Durchführung des Jagdgesetzes für das Land Brandenburg (BbgJagdDV) vom 28. Juni 2019",
+  "url": "https://bravors.brandenburg.de/verordnungen/bbgjagddv",
+  "paragraphen": [
+   {
+    "nr": "1",
+    "titel": "Eigenjagdbezirke (zu § 7 Absatz 1 BbgJagdG)",
+    "text": "(1) Die Mindestgröße von Eigenjagdbezirken kann unter folgenden Voraussetzungen bis auf 75 Hektar herabgesetzt werden:\n1. Die Fläche muss eine zusammenhängende Form aufweisen, die eine sichere Bejagung zulässt.\n2. Für die Herstellung des Zusammenhangs müssen die Grundflächen mindestens eine Verbindung von 100 Meter Breite haben.\n3. Flächen, die in ihrer äußeren Gestalt langgezogene schmale Streifen bilden, müssen eine Mindestbreite von 300 Metern haben.\n(2) Bei Flächen, die in gemeinschaftlichen Jagdbezirken liegen, wird die Genehmigung zur Verringerung der Mindestgröße erst zum Ende des jeweiligen Pachtvertrages wirksam, es sei denn, die Jagdgenossenschaften und die Jagdpächter stimmen einem früheren Zeitpunkt zu."
+   },
+   {
+    "nr": "2",
+    "titel": "Jagdabgabe (zu § 23 Absatz 4 BbgJagdG)",
+    "text": "(1) Die mit der Gebühr für den Jagdschein zu zahlende Jagdabgabe beträgt pro Jagdjahr:\n1. für den Jahresjagdschein und den Jahresfalknerjagdschein, in beiden Fällen auch für Jugendliche, jeweils 25 Euro,\n2. für den Tagesjagdschein und den Tagesfalknerjagdschein jeweils 5 Euro.\n(2) Wird der Falknerschein zusätzlich zu einem Jagdschein oder ein Jagdschein zusätzlich zu einem Falknerjagdschein erworben, wird die Jagdabgabe nur einmal erhoben."
+   },
+   {
+    "nr": "3",
+    "titel": "Sachliche Gebote und Verbote (zu § 26 Absatz 1 BbgJagdG)",
+    "text": "(1) Abweichend von § 19 Absatz 1 Nummer 5 Buchstabe a des Bundesjagdgesetzes ist es bei der Nachsuche von krankgeschossenem oder schwerkrankem Wild erlaubt, Nachtzielgeräte, die einen Bildwandler oder eine elektronische Verstärkung besitzen und für Schusswaffen bestimmt sind, sowie künstliche Lichtquellen zum Anstrahlen oder Beleuchten des Zieles zu verwenden. Über die Nachsuche hinaus darf die in Satz 1 genannte Technik beim Erlegen von Schwarzwild, Waschbär, Marderhund und Fuchs eingesetzt werden. Die waffenrechtlichen Bestimmungen sind zu beachten und bleiben davon unberührt.\n(2) Abweichend von § 19 Absatz 1 Nummer 9 des Bundesjagdgesetzes ist der Einsatz von Fanggeräten, die sofort töten, in befriedeten Bezirken zulässig, soweit Maßnahmen im Sinne des § 26 des Bundesjagdgesetzes nicht erfolgreich oder nicht möglich waren. Zur Jagd mit einem sofort tötenden Fanggerät ist ein gültiger Jagdschein sowie ein Nachweis über die persönliche Teilnahme an einem Lehrgang zur Vermittlung notwendiger Kenntnisse über die Fangjagd mitzuführen. Der Einsatz von Fanggeräten in befriedeten Bezirken steht unter dem Vorbehalt einer Genehmigung nach § 5 Absatz 3 des Jagdgesetzes für das Land Brandenburg.\n(3) Die Erteilung einer Erlaubnis nach § 19 Absatz 1 Nummer 11 des Bundesjagdgesetzes ist nur in besonderen Härtefällen möglich, in denen Menschen mit körperlicher Beeinträchtigung oder Menschen mit Behinderung ausschließlich auf das Kraftfahrzeug angewiesen sind und ansonsten von einer Jagdausübung gänzlich ausgeschlossen wären. Die zuständige Behörde stellt durch Nebenbestimmungen sicher, dass es hierbei keine Einschränkungen bei der Wahrung des Tierschutzes (zum Beispiel Fangschuss) gibt."
+   },
+   {
+    "nr": "4",
+    "titel": "Regelung der Bejagung (zu § 29 Absatz 10 BbgJagdG)",
+    "text": "(1) Die Jagdausübungsberechtigten haben den von ihnen für ihren Jagdbezirk vorgeschlagenen Abschussplan je Jagdjahr bis spätestens 15. März der unteren Jagdbehörde nach den Vorgaben der obersten Jagdbehörde digital zu übermitteln. Bei der Abschussplanung ist der Wildschadenssituation und der Körperentwicklung des Wildes Rechnung zu tragen. Eine erhöhte Wildschadenssituation im Wald liegt in der Regel dann vor, wenn der Wildbestand eine flächige, mindestens einen Hektar große künstliche Verjüngung oder eine natürliche Verjüngung der Hauptbaumarten nicht zulässt und daher die gemäß der einschlägigen forstlichen Förderrichtlinie vorgesehenen Mindestpflanzenzahlen nicht erreicht werden. Die Feststellung von erhöhten Wildschäden erfolgt durch die Inhaber der Eigenjagdbezirke und der Eigenjagdbezirke des Landes sowie die Jagdvorstände der Jagdgenossenschaften. In Zweifelsfällen entscheidet die untere Jagdbehörde. Bei Wildschäden im Wald soll die untere Forstbehörde beteiligt werden.\n(2) Gruppenabschusspläne sind zulässig. Sie sind nur insgesamt für beide Geschlechter und alle Altersklassen der jeweiligen Wildart zulässig. Gruppenabschusspläne sind gemeinsame Abschusspläne von zusammenhängenden Jagdbezirken innerhalb einer anerkannten Hegegemeinschaft. Auf Einzelabschusspläne kann in der Hegegemeinschaft verzichtet werden, wenn die Hegegemeinschaft dies in ihrer Satzung beschließt. Gruppenabschusspläne sind auch gemeinsame Abschusspläne von Jagdbezirken in Wildlebensräumen ohne Mitgliedschaft in einer anerkannten Hegegemeinschaft. Die untere Jagdbehörde hat zur Bestätigung dieser Gruppenabschusspläne das Votum der Hegegemeinschaft einzuholen.\n(3) Für die Abschussplanung von Rot-, Dam- und Schwarzwild gelten die Klassifizierung und der Abschussanteil der Anlage dieser Verordnung als Richtwert. Die untere Jagdbehörde kann im Einzelfall einen anderen Abschussanteil festsetzen.\n(4) Für Rot- und Damwild gilt der Abschussplan für die Altersklasse 0 als Mindestabschuss.\n(5) Bei einer erhöhten Wildschadenssituation gemäß Absatz 1 erfolgt die Bestätigung oder Festsetzung von Abschussplänen für weibliches Rot- und Damwild als Mindestabschussplan.\n(6) Die Streckenliste ist digital im Onlineportal Jagdstatistik zu erstellen. Der Nachweis über das erlegte Schalenwild ist getrennt nach Geschlecht und Altersklasse zu führen.\n(7) Für die Überprüfung der Richtigkeit der Streckenliste haben die Jagdausübungsberechtigten der unteren Jagdbehörde die erforderlichen Nachweise, insbesondere Wildursprungsscheine und Protokolle zum körperlichen Nachweis, zu erbringen und Auskünfte zu erteilen.\n(8) Bei Rot- und Damwild kann im Rahmen des Abschussplanes und nach Geschlechtern getrennt jeweils statt einem Stück einer höheren Altersklasse auch ein Stück einer geringeren Altersklasse erlegt werden. Ausgenommen sind die Altersklassen 0, 3 und 4 soweit die Hegegemeinschaft keine andere Regelung getroffen hat.\n(9) Die Erlegung von krankem Wild über den Abschussplan hinaus ist zulässig. Der unteren Jagdbehörde ist die Erlegung unverzüglich mitzuteilen.\n(10) Büchsenmunition ist für die Jagd auf Schalenwild nur geeignet, wenn sie eine zuverlässige Tötungswirkung erzielt und eine hinreichende ballistische Präzision gewährleistet. Ferner darf verwendete Büchsenmunition auf der Jagd ab dem Jagdjahr 2021/2022 nicht mehr Blei als nach dem jeweiligen Stand der Technik unter gleichzeitiger Wahrung der Anforderungen des Satzes 1 unvermeidbar an den Wildkörper abgeben.\n(11) Bei der Jagd auf Wasserfederwild an und über Gewässern ist zum Schutz des Wasser- und des Naturhaushaltes die Verwendung bleihaltiger Schrotmunition verboten. Für die Verwendung zur Jagd auf Wasserwild an Gewässern und in Feuchtgebieten ist Schrotmunition nur geeignet, wenn sie über die Anforderungen nach Absatz 10 hinaus möglichst kein Blei an die Umwelt abgibt."
+   },
+   {
+    "nr": "5",
+    "titel": "Jagd- und Schonzeiten (zu § 31 Absatz 1 BbgJagdG)",
+    "text": "(1) Über die in § 2 Absatz 1 des Bundesjagdgesetzes genannten Tierarten hinaus werden Mink, Marderhund, Waschbär, Wolf, Wolfshybrid, Nilgans, Rabenkrähe, Nebelkrähe sowie Elster zu Tierarten, die dem Jagdrecht unterliegen, erklärt.\n(2) Abweichend von den in der Verordnung über die Jagdzeiten vom 2. April 1977 (BGBl. I S. 531) in der jeweils geltenden Fassung festgesetzten Jagdzeiten darf die Jagd ausgeübt werden auf:\n1. Rotwild und Damwild: Schmalspießer und Schmaltier vom 16. April bis 15. Januar; Hirsch, Alttier und Kalb vom 1. August bis 15. Januar\n2. Rehwild: Ricke und Kitz vom 1. September bis 15. Januar; Rehbock und Schmalreh vom 16. April bis 15. Januar\n3. Dachs vom 1. August bis 31. Januar\n4. Steinmarder und Baummarder vom 1. September bis 28. Februar\n5. Mink, Marderhund, Waschbär ganzjährig (unter Berücksichtigung des § 22 Absatz 4 des Bundesjagdgesetzes)\n6. Wolfshybrid ganzjährig (unter Berücksichtigung des § 22 Absatz 4 des Bundesjagdgesetzes)\n7. Rabenkrähe, Nebelkrähe, Elster vom 1. September bis 31. Januar\n8. Graugans, Kanadagans vom 1. August bis 31. Januar, mit der Maßgabe, dass die Jagd in der Zeit vom 1. September bis 31. Oktober sowie vom 16. Januar bis 31. Januar nur zur Schadensabwehr auf gefährdeten Ackerkulturen ausgeübt werden darf\n9. Nilgans ganzjährig (unter Berücksichtigung des § 22 Absatz 4 des Bundesjagdgesetzes)\n10. Ringeltaube vom 1. September bis 31. Januar\n11. Stockente vom 1. September bis 31. Januar\n12. Möwen vom 1. September bis 31. Januar\n(3) Folgende Wildarten sind ganzjährig mit der Jagd zu verschonen: Iltis, Hermelin, Mauswiesel, Saatgans einschließlich Waldsaatgans, Ringelgans, Blässgans, alle Enten außer Stockenten, Rebhuhn, Muffelwild, Wolf.\n(4) Unabhängig von den geltenden Jagdzeiten ist es verboten, in Jagdbezirken oder Teilen von Jagdbezirken die Jagd auf Fasane, Rebhühner und Wildenten im gleichen Jagdjahr auszuüben, in dem diese in diesen Jagdbezirken ausgesetzt wurden. Als Aussetzen gilt nicht, wenn Wildtiere oder Gelege der Natur entnommen werden müssen, um sie aufzuziehen, gesund zu pflegen oder auszubrüten und sie anschließend wieder in die freie Wildbahn zu entlassen.\n(5) Das für das Jagdwesen zuständige Mitglied der Landesregierung berichtet dem zuständigen Ausschuss des Landtages nach Ablauf von drei Jagdjahren bis spätestens 31. Dezember 2027, ob es einen Anstieg von Wildschadensverfahren in den Monaten Juni und Juli gibt."
+   },
+   {
+    "nr": "6",
+    "titel": "Bestätigte Schweißhundeführer (zu § 35 Absatz 5 BbgJagdG)",
+    "text": "(1) Die Jagdscheininhaber können auf Antrag durch die untere Jagdbehörde als Schweißhundeführer oder Schweißhundeführerinnen bestätigt werden, wenn sie mindestens drei Jahre einen Jagdgebrauchshund bei den Nachsuchen geführt haben und einen auf Schweiß brauchbaren Jagdhund gemäß der Jagdhundebrauchbarkeitsverordnung führen.\n(2) Die persönliche Bestätigung erlischt bei Wegfall der Voraussetzungen. Die Bestätigungen anderer Bundesländer werden anerkannt.\n(3) Die grenzüberschreitende Nachsuche gemäß § 35 Absatz 2 Satz 1 des Jagdgesetzes für das Land Brandenburg ist ohne Vereinbarung zulässig, wenn es sich nach der Beurteilung des Schweißhundeführers oder der Schweißhundeführerin um Schussverletzungen handelt, die erfahrungsgemäß dem Wild längere Qualen bereiten (zum Beispiel Laufschüsse, Weidwundschüsse, Äser- oder Gebrechschüsse) und die Nachsuche unverzüglich aufgenommen wurde. Handelt es sich um Schussverletzungen, die eine eindeutige Totsuche erwarten lassen, ist die grenzüberschreitende Nachsuche nur unter den Voraussetzungen des § 35 Absatz 1 des Jagdgesetzes für das Land Brandenburg zulässig.\n(4) Die bestätigten Schweißhundeführer und Schweißhundeführerinnen dürfen erforderlichenfalls bis zu zwei Hilfskräfte hinzuziehen. Sofern die Vereinbarung nach § 35 Absatz 1 des Jagdgesetzes für das Land Brandenburg keine weitergehenden Regelungen vorsieht, dürfen die Schweißhundeführerinnen und Schweißhundeführer sowie deren Hilfskräfte bei grenzüberschreitenden Nachsuchen Schusswaffen führen.\n(5) Grenzüberschreitende Nachsuchen sind nur bei ausreichend natürlichen Sichtverhältnissen zulässig."
+   },
+   {
+    "nr": "7",
+    "titel": "Natürliche Äsung und Fütterung des Wildes (zu § 41 Absatz 8 BbgJagdG)",
+    "text": "(1) Die Fütterung von Schalenwild in festgesetzten Notzeiten darf nur eine Erhaltungsfütterung sein. Beim wiederkäuenden Schalenwild darf nur Raufutter und Saftfutter verwendet werden. Die Fütterung von Kraftfutter ist untersagt. Bei der Fütterung einer bestimmten Wildart ist eine Futteraufnahme durch andere Wildarten auszuschließen. Die ausgebrachten Futtermengen dürfen nur den unbedingt notwendigen Umfang zur Überbrückung der Notzeit umfassen. Eine Fütterung in Naturschutzgebieten darf nur erfolgen, wenn hierfür im jeweiligen Jagdbezirk keine anderen geeigneten Standorte zur Verfügung stehen. In diesem Fall sind die Maßgaben der jeweils geltenden Schutzgebietsverordnung zu berücksichtigen.\n(2) Ablenkfütterungen sind für Rot-, Dam- und Schwarzwild zulässig. An den Ablenkfütterungen ruht die Jagd im Umkreis von 200 Metern.\n(3) Fütterungen und Ablenkfütterungen dürfen nicht in geschützten Biotopen gemäß § 30 des Bundesnaturschutzgesetzes in Verbindung mit § 18 Absatz 1 des Brandenburgischen Naturschutzausführungsgesetzes angelegt werden.\n(4) Das Anlocken von Schalenwild mit Hilfe von Futter als Bejagungshilfe (Kirrung) ist erlaubt. Kirrmaterial darf nur in geringer Menge ausgebracht werden, wenn die zuvor ausgebrachte Menge weitgehend aufgenommen worden ist. Es ist nur artgerechtes, unverarbeitetes Futter wie Getreide, Eicheln, Bucheckern, Kastanien und Ähnliches zu verwenden. Kirrungen dürfen nicht in geschützten Biotopen gemäß § 30 des Bundesnaturschutzgesetzes in Verbindung mit § 18 Absatz 1 des Brandenburgischen Naturschutzausführungsgesetzes angelegt werden. Im Übrigen sind die jeweils geltenden Schutzgebietsverordnungen zu beachten.\n(5) Aufbrüche von erlegtem Wild und erlegtes Raubwild sind von den Erlegenden so zu beseitigen, dass eine Aufnahme durch Greifvögel nicht möglich ist. Das Vergraben ist zulässig. Jagdbezirke, in denen ausschließlich Büchsenmunition gemäß § 4 Absatz 10 zum Einsatz kommt, sind von Satz 1 nicht berührt.\n(6) In Gebieten mit festgesetzter Notzeit ist jegliche Jagdausübung verboten. Aus Gründen des Tierschutzes erforderliche Abschüsse bleiben davon unberührt."
+   },
+   {
+    "nr": "8",
+    "titel": "Wildschäden in Forstkulturen, Flurgehölzen und Obstplantagen (zu § 45 Absatz 2 BbgJagdG)",
+    "text": "(1) Forstkulturen umfassen den Zeitraum der Begründung bis zum Dickungsstadium, in der Regel zehn Jahre.\n(2) Als übliche Schutzvorrichtungen zur Abwendung des Schadens (vergleiche § 32 Absatz 2 des Bundesjagdgesetzes) sind insbesondere anzusehen:\n1. Drahtgeflechtzaun a) gegen Rotwild und Muffelwild in Höhe von 1,80 Meter, b) gegen Damwild und Rehwild in Höhe von 1,50 Meter, c) gegen Schwarzwild in Höhe von 1,50 Meter, der am Boden so befestigt ist, dass er nicht hochgehoben werden kann,\n2. Drahtgeflechtzaun gegen Wildkaninchen von 25 Millimeter Maschenbreite in Höhe von 1,30 Meter über der Erde und 0,20 Meter in die Erde eingegraben.\n(3) Einem Drahtgeflechtzaun nach Absatz 2 steht ein Zaun anderer Art gleich, wenn er die gleiche Schutzwirkung hat.\n(4) Bei Alleen, einzelnstehenden Bäumen, Flurholzanpflanzungen und Forstkulturen mit anderen als den im Jagdbezirk vorkommenden Hauptholzarten sind anerkannte Bestäubungs- und Streichmittel oder Manschetten für den Zeitraum der Aufwuchsphase ausreichend."
+   },
+   {
+    "nr": "9",
+    "titel": "Kosten des Vorverfahrens (zu § 52 Absatz 2 BbgJagdG)",
+    "text": "Die Schätzer erhalten für ihre Tätigkeit und den damit verbundenen Zeitverlust eine Vergütung in Höhe von 40 Euro für jede angefangene Stunde, höchstens 200 Euro für einen Tag und Ersatz ihrer Reisekosten nach den für Beamtinnen und Beamte der Reisekostenstufe B geltenden Vorschriften des Reisekostenrechts des Landes Brandenburg."
+   },
+   {
+    "nr": "10",
+    "titel": "Inkrafttreten, Außerkrafttreten",
+    "text": "Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Verordnung zur Durchführung des Jagdgesetzes für das Land Brandenburg vom 2. April 2004 (GVBl. II S. 305), die zuletzt durch die Verordnung vom 29. September 2014 (GVBl. II Nr. 74) geändert worden ist, außer Kraft."
+   }
+  ]
+ },
+ "laender": {
+  "BY": {
+   "qual": "A",
+   "bund": false,
+   "stand": "AVBayJG § 19, Text gültig ab 01.04.2026",
+   "quelle": [
+    [
+     "AVBayJG § 19",
+     "https://www.gesetze-bayern.de/Content/Document/BayAVJG-19"
+    ]
+   ],
+   "hinweis": "Wolf und Fischotter nur nach naturschutzrechtlicher Ausnahme. Wildkaninchen, Waschbär, Marderhund, Nutria, Mink, Nilgans: Sonderregel Abs. 3 zu Setz- und Brutzeiten.",
+   "zeiten": {
+    "rot": [
+     [
+      "Kälber, Alttiere, übrige Hirsche",
+      "1.8.-31.1."
+     ],
+     [
+      "Schmaltiere, Schmalspießer",
+      "1.6.-31.1."
+     ]
+    ],
+    "dam": [
+     [
+      "Kälber, Alttiere, übrige Hirsche",
+      "1.9.-31.1."
+     ],
+     [
+      "Schmaltiere, Schmalspießer",
+      "1.7.-31.1."
+     ]
+    ],
+    "sika": [
+     [
+      "Kälber, Alttiere, übrige Hirsche",
+      "1.9.-31.1."
+     ],
+     [
+      "Schmaltiere, Schmalspießer",
+      "1.7.-31.1."
+     ]
+    ],
+    "reh": [
+     [
+      "Kitze, Geißen",
+      "1.9.-15.1."
+     ],
+     [
+      "Schmalrehe",
+      "16.4.-15.1."
+     ],
+     [
+      "Böcke",
+      "16.4.-15.10."
+     ]
+    ],
+    "gams": [
+     [
+      "Gamswild",
+      "1.8.-15.12."
+     ]
+    ],
+    "muffel": [
+     [
+      "Muffelwild",
+      "1.8.-31.1."
+     ]
+    ],
+    "schwarz": [
+     [
+      "Alle Klassen",
+      "ganz"
+     ]
+    ],
+    "hase": [
+     [
+      "Feldhase",
+      "16.10.-31.12."
+     ]
+    ],
+    "kaninchen": [
+     [
+      "Wildkaninchen",
+      "ganz",
+      "Abs. 3"
+     ]
+    ],
+    "fuchs": [
+     [
+      "Fuchs",
+      "ganz"
+     ]
+    ],
+    "steinmarder": [
+     [
+      "Adult",
+      "1.8.-28.2."
+     ],
+     [
+      "Juvenil",
+      "1.6.-28.2."
+     ]
+    ],
+    "baummarder": [
+     [
+      "Baummarder",
+      "16.10.-28.2."
+     ]
+    ],
+    "iltis": [
+     [
+      "Iltis",
+      "1.8.-28.2."
+     ]
+    ],
+    "hermelin": [
+     [
+      "Hermelin",
+      "1.8.-28.2."
+     ]
+    ],
+    "mauswiesel": [
+     [
+      "Mauswiesel",
+      "1.8.-28.2."
+     ]
+    ],
+    "dachs": [
+     [
+      "Adult",
+      "1.8.-31.1."
+     ],
+     [
+      "Juvenil",
+      "16.4.-31.1."
+     ]
+    ],
+    "waschbaer": [
+     [
+      "Waschbär",
+      "ganz",
+      "Abs. 3"
+     ]
+    ],
+    "marderhund": [
+     [
+      "Marderhund",
+      "ganz",
+      "Abs. 3"
+     ]
+    ],
+    "nutria": [
+     [
+      "Nutria",
+      "ganz",
+      "Abs. 3"
+     ]
+    ],
+    "mink": [
+     [
+      "Mink",
+      "ganz",
+      "Abs. 3"
+     ]
+    ],
+    "wolf": [
+     [
+      "Wolf",
+      "keine",
+      "nur mit Ausnahme, Abs. 5"
+     ]
+    ],
+    "rebhuhn": [
+     [
+      "Rebhuhn",
+      "1.9.-31.10."
+     ]
+    ],
+    "fasan": [
+     [
+      "Fasan",
+      "1.10.-31.12."
+     ]
+    ],
+    "truthuhn": [
+     [
+      "Hähne",
+      "15.3.-15.5. + 1.10.-15.1."
+     ],
+     [
+      "Hennen",
+      "1.10.-15.1."
+     ]
+    ],
+    "ringeltaube": [
+     [
+      "Ringeltaube",
+      "1.11.-20.2.",
+      "Sonderregel zur Schadensabwehr, Abs. 2"
+     ]
+    ],
+    "tuerkentaube": [
+     [
+      "Türkentaube",
+      "1.11.-20.2."
+     ]
+    ],
+    "schwan": [
+     [
+      "Höckerschwan",
+      "1.11.-20.2."
+     ]
+    ],
+    "graugans": [
+     [
+      "Graugans",
+      "1.8.-28.2.",
+      "sitzende Jungvögel 1.7.-31.7., Abs. 2"
+     ]
+    ],
+    "kanadagans": [
+     [
+      "Kanadagans",
+      "1.8.-28.2.",
+      "sitzende Jungvögel 1.7.-31.7., Abs. 2"
+     ]
+    ],
+    "nilgans": [
+     [
+      "Nilgans",
+      "ganz",
+      "Abs. 3"
+     ]
+    ],
+    "rostgans": [
+     [
+      "Adult",
+      "1.9.-28.2."
+     ],
+     [
+      "Juvenil",
+      "ganz"
+     ]
+    ],
+    "blaessgans": [
+     [
+      "Bläss-, Saat-, Ringelgans",
+      "1.11.-15.1."
+     ]
+    ],
+    "stockente": [
+     [
+      "Stockente",
+      "1.9.-15.1."
+     ]
+    ],
+    "enten": [
+     [
+      "Pfeif-, Krick-, Spieß-, Berg-, Reiher-, Tafel-, Samt-, Trauerente",
+      "1.10.-15.1."
+     ]
+    ],
+    "schnepfe": [
+     [
+      "Waldschnepfe",
+      "16.10.-15.1."
+     ]
+    ],
+    "blaesshuhn": [
+     [
+      "Blässhuhn",
+      "11.9.-20.2."
+     ]
+    ],
+    "moewen": [
+     [
+      "Lach-, Sturm-, Silber-, Mantel-, Heringsmöwe",
+      "1.10.-10.2."
+     ]
+    ],
+    "kraehe": [
+     [
+      "Raben-, Nebelkrähe",
+      "16.7.-14.3."
+     ]
+    ],
+    "elster": [
+     [
+      "Elster",
+      "16.7.-14.3."
+     ]
+    ],
+    "graureiher": [
+     [
+      "Graureiher",
+      "16.9.-31.10.",
+      "nur 200 m um geschlossene Gewässer"
+     ]
+    ]
+   }
+  },
+  "NW": {
+   "qual": "A",
+   "bund": false,
+   "stand": "LJZeitVO, Fassung vom 29.03.2024",
+   "quelle": [
+    [
+     "LJZeitVO NRW",
+     "https://recht.nrw.de/lrgv/rechtsverordnung/29032024-verordnung-ueber-die-jagdzeiten-landesjagdzeitenverordnung-ljzeitvo1/"
+    ]
+   ],
+   "hinweis": "Untere Jagdbehörde kann Schonzeiten aufheben (§ 2). Gänse: Schonung 15.10.-31.1. am Unteren Niederrhein und in der Weseraue.",
+   "zeiten": {
+    "rot": [
+     [
+      "Hirsche, Alttiere, Kälber",
+      "1.8.-31.1."
+     ],
+     [
+      "Schmaltiere, Schmalspießer",
+      "1.5.-31.5. + 1.8.-31.1."
+     ]
+    ],
+    "dam": [
+     [
+      "Hirsche, Alttiere, Kälber",
+      "1.8.-31.1."
+     ],
+     [
+      "Schmaltiere, Schmalspießer",
+      "1.5.-31.5. + 1.8.-31.1."
+     ]
+    ],
+    "sika": [
+     [
+      "Hirsche, Alttiere, Kälber",
+      "1.8.-31.1."
+     ],
+     [
+      "Schmaltiere, Schmalspießer",
+      "1.5.-31.5. + 1.8.-31.1."
+     ]
+    ],
+    "reh": [
+     [
+      "Kitze, Ricken",
+      "1.9.-31.1."
+     ],
+     [
+      "Schmalrehe",
+      "1.5.-31.5. + 1.9.-31.1."
+     ],
+     [
+      "Böcke",
+      "1.5.-31.1."
+     ]
+    ],
+    "muffel": [
+     [
+      "Muffelwild",
+      "1.8.-31.1."
+     ]
+    ],
+    "schwarz": [
+     [
+      "Alle Klassen",
+      "ganz",
+      "§ 1 Abs. 3: befristet bis 31.01.2028, § 22 Abs. 4 BJagdG beachten"
+     ]
+    ],
+    "hase": [
+     [
+      "Feldhase",
+      "16.10.-31.12."
+     ]
+    ],
+    "kaninchen": [
+     [
+      "Wildkaninchen",
+      "16.10.-28.2."
+     ],
+     [
+      "Jungkaninchen",
+      "ganz"
+     ]
+    ],
+    "steinmarder": [
+     [
+      "Steinmarder",
+      "16.10.-28.2."
+     ]
+    ],
+    "iltis": [
+     [
+      "Iltis",
+      "16.10.-28.2."
+     ]
+    ],
+    "hermelin": [
+     [
+      "Hermelin",
+      "1.9.-28.2."
+     ]
+    ],
+    "dachs": [
+     [
+      "Dachs",
+      "1.9.-31.12."
+     ],
+     [
+      "Jungdachse",
+      "ganz"
+     ]
+    ],
+    "fuchs": [
+     [
+      "Fuchs",
+      "16.7.-28.2."
+     ],
+     [
+      "Jungfüchse",
+      "ganz"
+     ]
+    ],
+    "mink": [
+     [
+      "Mink",
+      "16.10.-28.2."
+     ]
+    ],
+    "waschbaer": [
+     [
+      "Waschbär",
+      "1.8.-28.2."
+     ],
+     [
+      "Jungwaschbären",
+      "ganz"
+     ]
+    ],
+    "marderhund": [
+     [
+      "Marderhund",
+      "1.9.-28.2."
+     ],
+     [
+      "Jungmarderhunde",
+      "ganz"
+     ]
+    ],
+    "rebhuhn": [
+     [
+      "Rebhuhn",
+      "keine",
+      "Schonung bis 31.12.2027 (§ 2 Nr. 1)"
+     ]
+    ],
+    "fasan": [
+     [
+      "Fasan",
+      "16.10.-15.1."
+     ]
+    ],
+    "truthuhn": [
+     [
+      "Hahn",
+      "16.3.-30.4."
+     ]
+    ],
+    "ringeltaube": [
+     [
+      "Ringeltaube",
+      "1.11.-20.2."
+     ]
+    ],
+    "schwan": [
+     [
+      "Höckerschwan",
+      "1.11.-20.2."
+     ]
+    ],
+    "graugans": [
+     [
+      "Graugans",
+      "16.7.-31.1."
+     ]
+    ],
+    "kanadagans": [
+     [
+      "Kanadagans",
+      "16.7.-31.1."
+     ]
+    ],
+    "nilgans": [
+     [
+      "Nilgans",
+      "16.7.-31.1."
+     ],
+     [
+      "Juvenil",
+      "ganz"
+     ]
+    ],
+    "stockente": [
+     [
+      "Stockente",
+      "16.9.-15.1."
+     ]
+    ],
+    "schnepfe": [
+     [
+      "Waldschnepfe",
+      "16.10.-15.1."
+     ]
+    ],
+    "kraehe": [
+     [
+      "Rabenkrähe",
+      "1.8.-10.3."
+     ]
+    ],
+    "elster": [
+     [
+      "Elster",
+      "1.8.-28.2."
+     ]
+    ]
+   }
+  },
+  "NI": {
+   "qual": "A",
+   "bund": true,
+   "stand": "DVO-NJagdG, zuletzt geändert 05.10.2026",
+   "quelle": [
+    [
+     "DVO-NJagdG",
+     "https://ml.niedersachsen.de/download/179303"
+    ],
+    [
+     "Bundes-JagdZeitV § 1",
+     "https://www.gesetze-im-internet.de/jagdzeitv_1977/BJNR005310977.html"
+    ]
+   ],
+   "hinweis": "Nicht genannte Arten: Bundesrecht. Vogelschutzgebiete und Trupp-Regeln bei Ringeltaube, Schwan und Gänsen beachten. Wolf nur bei aufgestelltem Managementplan (§ 3 Abs. 3).",
+   "zeiten": {
+    "rot": [
+     [
+      "Kälber, Hirsche, Alttiere",
+      "1.8.-31.1."
+     ],
+     [
+      "Schmalspießer, Schmaltiere",
+      "1.4.-15.5. + 1.8.-31.1."
+     ]
+    ],
+    "dam": [
+     [
+      "Kälber",
+      "1.9.-31.1."
+     ],
+     [
+      "Schmalspießer, Schmaltiere",
+      "1.4.-15.5. + 1.8.-31.1."
+     ],
+     [
+      "Hirsche",
+      "1.8.-31.1."
+     ],
+     [
+      "Alttiere",
+      "1.9.-31.1.",
+      "Bundesrecht"
+     ]
+    ],
+    "sika": [
+     [
+      "Kälber",
+      "1.9.-31.1."
+     ],
+     [
+      "Schmalspießer, Schmaltiere, Hirsche",
+      "1.8.-31.1."
+     ],
+     [
+      "Alttiere",
+      "1.9.-31.1.",
+      "Bundesrecht"
+     ]
+    ],
+    "reh": [
+     [
+      "Kitze",
+      "1.9.-31.1."
+     ],
+     [
+      "Schmalrehe",
+      "1.4.-15.5. + 1.9.-31.1."
+     ],
+     [
+      "Böcke",
+      "1.4.-31.1."
+     ],
+     [
+      "Ricken",
+      "1.9.-31.1.",
+      "Bundesrecht"
+     ]
+    ],
+    "hase": [
+     [
+      "Feldhase",
+      "1.10.-31.12."
+     ]
+    ],
+    "kaninchen": [
+     [
+      "Ohne Jungkaninchen",
+      "1.10.-15.2."
+     ]
+    ],
+    "dachs": [
+     [
+      "Dachs",
+      "1.8.-31.1."
+     ],
+     [
+      "Jungdachse",
+      "ganz"
+     ]
+    ],
+    "fuchs": [
+     [
+      "Ohne Jungfüchse",
+      "16.6.-28.2."
+     ]
+    ],
+    "steinmarder": [
+     [
+      "Steinmarder",
+      "16.9.-28.2."
+     ]
+    ],
+    "baummarder": [
+     [
+      "Baummarder",
+      "16.9.-28.2."
+     ]
+    ],
+    "mauswiesel": [
+     [
+      "Mauswiesel",
+      "keine"
+     ]
+    ],
+    "waschbaer": [
+     [
+      "Waschbär",
+      "16.7.-31.3."
+     ],
+     [
+      "Jungtiere",
+      "ganz"
+     ]
+    ],
+    "marderhund": [
+     [
+      "Marderhund",
+      "1.9.-28.2."
+     ],
+     [
+      "Jungtiere",
+      "ganz"
+     ]
+    ],
+    "mink": [
+     [
+      "Mink",
+      "1.8.-28.2."
+     ],
+     [
+      "Jungtiere",
+      "ganz"
+     ]
+    ],
+    "nutria": [
+     [
+      "Nutria",
+      "ganz"
+     ]
+    ],
+    "wolf": [
+     [
+      "Wolf",
+      "keine",
+      "Sonderregel bei Managementplan, § 3 Abs. 3"
+     ]
+    ],
+    "rebhuhn": [
+     [
+      "Rebhuhn",
+      "16.9.-30.11."
+     ]
+    ],
+    "truthuhn": [
+     [
+      "Hahn, Henne",
+      "keine"
+     ]
+    ],
+    "ringeltaube": [
+     [
+      "Alttauben",
+      "20.8.-31.3.",
+      "20.8.-31.10. und 21.2.-31.3. nur Schadensabwehr in Trupps"
+     ],
+     [
+      "Jungtauben",
+      "ganz",
+      "21.2.-31.3. nur Schadensabwehr"
+     ]
+    ],
+    "tuerkentaube": [
+     [
+      "Türkentaube",
+      "1.11.-31.12."
+     ]
+    ],
+    "schwan": [
+     [
+      "Höckerschwan",
+      "1.11.-20.2.",
+      "in Vogelschutzgebieten 1.11.-30.11.; Schadensabwehr in Trupps"
+     ]
+    ],
+    "graugans": [
+     [
+      "Graugans",
+      "16.7.-15.2.",
+      "in Vogelschutzgebieten 16.7.-30.11."
+     ]
+    ],
+    "kanadagans": [
+     [
+      "Kanadagans",
+      "16.7.-15.2.",
+      "in Vogelschutzgebieten 16.7.-30.11."
+     ]
+    ],
+    "nilgans": [
+     [
+      "Nilgans",
+      "16.7.-31.1."
+     ],
+     [
+      "Jungtiere",
+      "ganz"
+     ]
+    ],
+    "nonnengans": [
+     [
+      "Nonnengans",
+      "1.8.-15.1.",
+      "nur mit artenschutzrechtlicher Ausnahmezulassung"
+     ]
+    ],
+    "blaessgans": [
+     [
+      "Bläss-, Saat-, Ringelgans",
+      "keine"
+     ]
+    ],
+    "enten": [
+     [
+      "Spieß-, Berg-, Reiher-, Tafel-, Samt-, Trauerente",
+      "keine"
+     ],
+     [
+      "Pfeif-, Krickente",
+      "1.10.-15.1.",
+      "Bundesrecht"
+     ]
+    ],
+    "moewen": [
+     [
+      "Lach-, Sturm-, Mantel-, Heringsmöwe",
+      "keine"
+     ],
+     [
+      "Silbermöwe",
+      "1.10.-10.2.",
+      "Bundesrecht"
+     ]
+    ],
+    "schnepfe": [
+     [
+      "Waldschnepfe",
+      "16.10.-31.12."
+     ]
+    ],
+    "kraehe": [
+     [
+      "Rabenkrähe",
+      "1.8.-20.2."
+     ]
+    ],
+    "elster": [
+     [
+      "Elster",
+      "1.8.-28.2."
+     ]
+    ]
+   }
+  },
+  "HE": {
+   "qual": "A",
+   "bund": true,
+   "stand": "HJagdV, Änderung in Kraft 01.04.2026, zuletzt geändert 20.05.2026",
+   "quelle": [
+    [
+     "ÄndVO HJagdV, GVBl. 2026 Nr. 14",
+     "https://rp-kassel.hessen.de/sites/rp-kassel.hessen.de/files/2026-03/gvbl_2026_nr_14_aendvo_hjagdvo_regelungstext.pdf"
+    ],
+    [
+     "HJagdV § 2 (Auszug)",
+     "https://umwelt-online.de/recht/natursch/laender/he/jagdv22.htm"
+    ],
+    [
+     "Bundes-JagdZeitV § 1",
+     "https://www.gesetze-im-internet.de/jagdzeitv_1977/BJNR005310977.html"
+    ]
+   ],
+   "hinweis": "Nicht genannte Arten: Bundesrecht. Die Abs. 3 bis 5 (Vogelschutzgebiete, Blässhuhn, Rebhuhn) konnten nicht vollständig ausgewertet werden.",
+   "zeiten": {
+    "rot": [
+     [
+      "Kälber",
+      "1.8.-31.1."
+     ],
+     [
+      "Schmalspießer, Schmaltiere",
+      "1.4.-31.5. + 1.8.-31.1."
+     ],
+     [
+      "Hirsche, Alttiere",
+      "1.8.-31.1.",
+      "Bundesrecht"
+     ]
+    ],
+    "dam": [
+     [
+      "Kälber",
+      "1.9.-31.1."
+     ],
+     [
+      "Schmalspießer, Schmaltiere",
+      "1.4.-31.5. + 1.8.-31.1."
+     ],
+     [
+      "Hirsche, Alttiere",
+      "1.9.-31.1.",
+      "Bundesrecht"
+     ]
+    ],
+    "sika": [
+     [
+      "Kälber",
+      "1.9.-31.1."
+     ],
+     [
+      "Schmalspießer, Schmaltiere",
+      "1.4.-31.5. + 1.8.-31.1."
+     ],
+     [
+      "Hirsche, Alttiere",
+      "1.9.-31.1.",
+      "Bundesrecht"
+     ]
+    ],
+    "muffel": [
+     [
+      "Jährlingswidder, Schmalschafe",
+      "1.4.-31.5. + 1.8.-31.1."
+     ],
+     [
+      "Widder, Schafe, Lämmer",
+      "1.8.-31.1.",
+      "Bundesrecht"
+     ]
+    ],
+    "reh": [
+     [
+      "Kitze",
+      "1.9.-31.1."
+     ],
+     [
+      "Schmalrehe, Böcke",
+      "1.4.-31.1."
+     ],
+     [
+      "Ricken",
+      "1.9.-31.1.",
+      "Bundesrecht"
+     ]
+    ],
+    "hase": [
+     [
+      "Feldhase",
+      "1.10.-31.12."
+     ]
+    ],
+    "dachs": [
+     [
+      "Dachs",
+      "1.8.-31.12."
+     ],
+     [
+      "Jungdachs",
+      "1.6.-31.12."
+     ]
+    ],
+    "waschbaer": [
+     [
+      "Waschbär",
+      "ganz"
+     ]
+    ],
+    "marderhund": [
+     [
+      "Marderhund",
+      "ganz"
+     ]
+    ],
+    "mink": [
+     [
+      "Mink",
+      "ganz"
+     ]
+    ],
+    "nutria": [
+     [
+      "Nutria",
+      "ganz"
+     ]
+    ],
+    "wolf": [
+     [
+      "Wolf",
+      "keine"
+     ]
+    ],
+    "fasan": [
+     [
+      "Hahn",
+      "1.10.-15.1.",
+      "Bundesrecht"
+     ],
+     [
+      "Henne",
+      "keine"
+     ]
+    ],
+    "truthuhn": [
+     [
+      "Hahn, Henne",
+      "keine"
+     ]
+    ],
+    "tuerkentaube": [
+     [
+      "Türkentaube",
+      "keine"
+     ]
+    ],
+    "schwan": [
+     [
+      "Höckerschwan",
+      "1.11.-31.12."
+     ]
+    ],
+    "blaessgans": [
+     [
+      "Bläss-, Saat-, Ringelgans",
+      "keine"
+     ]
+    ],
+    "enten": [
+     [
+      "Pfeif-, Krick-, Spieß-, Berg-, Reiher-, Tafel-, Samt-, Trauerente",
+      "keine"
+     ]
+    ],
+    "moewen": [
+     [
+      "Lach-, Sturm-, Silber-, Mantel-, Heringsmöwe",
+      "keine"
+     ]
+    ],
+    "rebhuhn": [
+     [
+      "Rebhuhn",
+      "1.10.-31.10.",
+      "Schonung nach Abs. 5 möglich"
+     ]
+    ],
+    "blaesshuhn": [
+     [
+      "Blässhuhn",
+      "1.10.-15.1."
+     ]
+    ],
+    "ringeltaube": [
+     [
+      "Ringeltaube",
+      "1.11.-10.2."
+     ],
+     [
+      "Juvenil",
+      "1.7.-10.2."
+     ]
+    ],
+    "graugans": [
+     [
+      "Graugans",
+      "1.8.-15.1.",
+      "Schonung in Vogelschutzgebieten, Abs. 3"
+     ]
+    ],
+    "kanadagans": [
+     [
+      "Kanadagans",
+      "1.8.-15.1."
+     ]
+    ],
+    "nilgans": [
+     [
+      "Nilgans",
+      "ganz"
+     ]
+    ],
+    "stockente": [
+     [
+      "Stockente",
+      "1.9.-15.1."
+     ]
+    ],
+    "rostgans": [
+     [
+      "Rostgans",
+      "1.9.-15.1."
+     ],
+     [
+      "Juvenil",
+      "ganz"
+     ]
+    ],
+    "kraehe": [
+     [
+      "Rabenkrähe",
+      "1.8.-15.2."
+     ]
+    ],
+    "elster": [
+     [
+      "Elster",
+      "1.8.-31.1."
+     ]
+    ]
+   }
+  },
+  "BW": {
+   "qual": "B",
+   "bund": false,
+   "stand": "DVO JWMG § 10, Fassung 18.02.2024; Ergänzung LJV-Übersicht 14.04.2026",
+   "quelle": [
+    [
+     "DVO JWMG (FAOLEX)",
+     "https://faolex.fao.org/docs/pdf/ger224274.pdf"
+    ],
+    [
+     "LJV BW Jagdzeiten 2026",
+     "https://www.landesjagdverband.de/fileadmin/Medien/LJV/Bilder/3__Jagdpraxis/Jagdzeiten/20260414_Jagdzeiten_2026.pdf"
+    ]
+   ],
+   "hinweis": "Allgemeine Schonzeit 16.2.-15.4. Eine 2025 angekündigte Änderung der Rehwild-Jagdzeit konnte nicht abschließend geprüft werden: vor der Jagd die aktuelle DVO prüfen.",
+   "zeiten": {
+    "rot": [
+     [
+      "Kälber, Hirsche, Alttiere",
+      "1.8.-31.1."
+     ],
+     [
+      "Schmalspießer, Schmaltiere",
+      "1.5.-15.6. + 1.8.-31.1."
+     ]
+    ],
+    "dam": [
+     [
+      "Kälber, Hirsche, Alttiere",
+      "1.9.-31.1."
+     ],
+     [
+      "Schmalspießer, Schmaltiere",
+      "1.5.-31.5. + 1.8.-31.1."
+     ]
+    ],
+    "sika": [
+     [
+      "Kälber, Alttiere",
+      "1.8.-31.1."
+     ],
+     [
+      "Hirsche, Schmalspießer, Schmaltiere",
+      "1.5.-31.1."
+     ]
+    ],
+    "reh": [
+     [
+      "Kitze, Ricken",
+      "1.9.-31.1."
+     ],
+     [
+      "Schmalrehe, Böcke",
+      "1.5.-31.1."
+     ]
+    ],
+    "gams": [
+     [
+      "Jährlinge",
+      "1.7.-31.1."
+     ],
+     [
+      "Geißen, Kitze, Böcke",
+      "1.9.-31.1."
+     ]
+    ],
+    "muffel": [
+     [
+      "Widder",
+      "1.5.-31.5. + 1.9.-31.1."
+     ],
+     [
+      "Schafe, Lämmer",
+      "1.9.-31.1."
+     ]
+    ],
+    "schwarz": [
+     [
+      "Alle Klassen",
+      "ganz",
+      "Elterntierschutz bleibt"
+     ]
+    ],
+    "hase": [
+     [
+      "Feldhase",
+      "1.10.-31.12."
+     ]
+    ],
+    "kaninchen": [
+     [
+      "Wildkaninchen",
+      "1.10.-15.2."
+     ],
+     [
+      "Jungkaninchen",
+      "16.4.-15.2."
+     ]
+    ],
+    "steinmarder": [
+     [
+      "Steinmarder",
+      "1.10.-15.2."
+     ]
+    ],
+    "baummarder": [
+     [
+      "Baummarder",
+      "1.10.-15.2."
+     ]
+    ],
+    "iltis": [
+     [
+      "Iltis",
+      "1.10.-15.2."
+     ]
+    ],
+    "hermelin": [
+     [
+      "Hermelin",
+      "1.10.-15.2."
+     ]
+    ],
+    "dachs": [
+     [
+      "Dachs",
+      "1.8.-31.12."
+     ],
+     [
+      "Jungdachse",
+      "1.6.-31.12."
+     ]
+    ],
+    "fuchs": [
+     [
+      "Fuchs",
+      "1.7.-15.2.",
+      "in Hegegemeinschaft oder Fachkonzept bis Ende Februar"
+     ],
+     [
+      "Jungfüchse",
+      "16.4.-15.2."
+     ]
+    ],
+    "marderhund": [
+     [
+      "Marderhund",
+      "ganz",
+      "LJV 2026, Elterntierschutz"
+     ]
+    ],
+    "waschbaer": [
+     [
+      "Waschbär",
+      "ganz",
+      "LJV 2026, Elterntierschutz"
+     ]
+    ],
+    "nutria": [
+     [
+      "Nutria",
+      "ganz",
+      "LJV 2026, Elterntierschutz"
+     ]
+    ],
+    "mink": [
+     [
+      "Mink",
+      "ganz",
+      "LJV 2026, Elterntierschutz"
+     ]
+    ],
+    "fasan": [
+     [
+      "Fasan",
+      "1.10.-31.12."
+     ]
+    ],
+    "ringeltaube": [
+     [
+      "Ringeltaube",
+      "1.11.-10.2."
+     ]
+    ],
+    "tuerkentaube": [
+     [
+      "Türkentaube",
+      "1.11.-10.2."
+     ]
+    ],
+    "schwan": [
+     [
+      "Höckerschwan",
+      "1.11.-15.1."
+     ]
+    ],
+    "graugans": [
+     [
+      "Graugans",
+      "1.8.-31.1."
+     ]
+    ],
+    "rostgans": [
+     [
+      "Rostgans",
+      "ganz",
+      "LJV 2026"
+     ]
+    ],
+    "kanadagans": [
+     [
+      "Kanadagans",
+      "1.8.-15.2."
+     ]
+    ],
+    "nilgans": [
+     [
+      "Nilgans",
+      "ganz",
+      "LJV 2026"
+     ]
+    ],
+    "stockente": [
+     [
+      "Stockente",
+      "1.9.-15.1."
+     ]
+    ],
+    "enten": [
+     [
+      "Schnatterente",
+      "1.9.-15.1."
+     ],
+     [
+      "Pfeif-, Krick-, Reiher-, Tafelente",
+      "1.10.-15.1."
+     ]
+    ],
+    "blaesshuhn": [
+     [
+      "Blässhuhn",
+      "1.10.-15.1."
+     ]
+    ],
+    "schnepfe": [
+     [
+      "Waldschnepfe",
+      "1.10.-31.12."
+     ]
+    ],
+    "kraehe": [
+     [
+      "Rabenkrähe",
+      "1.8.-15.2.",
+      "nicht in NSG und Naturdenkmalen"
+     ]
+    ],
+    "elster": [
+     [
+      "Elster",
+      "1.8.-15.2.",
+      "nicht in NSG und Naturdenkmalen"
+     ]
+    ],
+    "kormoran": [
+     [
+      "Kormoran",
+      "16.8.-15.3.",
+      "Kormoranverordnung"
+     ]
+    ]
+   }
+  },
+  "BE": {
+   "qual": "B",
+   "bund": true,
+   "stand": "VO über jagdbare Tierarten und Jagdzeiten, geändert 22.08.2025",
+   "quelle": [
+    [
+     "Berliner Verordnung (Auszug)",
+     "https://umwelt-online.de/recht/natursch/laender/bln/jagdv.htm"
+    ],
+    [
+     "Bundes-JagdZeitV § 1",
+     "https://www.gesetze-im-internet.de/jagdzeitv_1977/BJNR005310977.html"
+    ]
+   ],
+   "hinweis": "Nicht genannte Arten: Bundesrecht. Jagdbehörde kann Schonzeiten aufheben (§ 4).",
+   "zeiten": {
+    "reh": [
+     [
+      "Ricken, Kitze",
+      "1.9.-31.1."
+     ],
+     [
+      "Böcke, Schmalrehe",
+      "1.4.-31.5. + 1.8.-31.1."
+     ]
+    ],
+    "mink": [
+     [
+      "Mink",
+      "1.10.-31.1."
+     ]
+    ],
+    "marderhund": [
+     [
+      "Marderhund",
+      "1.10.-31.1."
+     ]
+    ],
+    "nutria": [
+     [
+      "Nutria",
+      "ganz"
+     ]
+    ],
+    "waschbaer": [
+     [
+      "Waschbär",
+      "ganz"
+     ]
+    ],
+    "fuchs": [
+     [
+      "Altfüchse",
+      "1.11.-31.1."
+     ],
+     [
+      "Jungfüchse",
+      "1.5.-31.1."
+     ]
+    ],
+    "kaninchen": [
+     [
+      "Wildkaninchen",
+      "1.9.-15.2."
+     ]
+    ],
+    "baummarder": [
+     [
+      "Baummarder",
+      "keine"
+     ]
+    ],
+    "iltis": [
+     [
+      "Iltis",
+      "keine"
+     ]
+    ],
+    "hermelin": [
+     [
+      "Hermelin",
+      "keine"
+     ]
+    ],
+    "mauswiesel": [
+     [
+      "Mauswiesel",
+      "keine"
+     ]
+    ],
+    "dachs": [
+     [
+      "Dachs",
+      "keine"
+     ]
+    ],
+    "hase": [
+     [
+      "Feldhase",
+      "keine"
+     ]
+    ],
+    "rebhuhn": [
+     [
+      "Rebhuhn",
+      "keine"
+     ]
+    ],
+    "schnepfe": [
+     [
+      "Waldschnepfe",
+      "keine"
+     ]
+    ],
+    "tuerkentaube": [
+     [
+      "Türkentaube",
+      "keine"
+     ]
+    ],
+    "truthuhn": [
+     [
+      "Hahn, Henne",
+      "keine"
+     ]
+    ],
+    "enten": [
+     [
+      "Alle außer Stockente",
+      "keine"
+     ]
+    ],
+    "graugans": [
+     [
+      "Graugans",
+      "keine"
+     ]
+    ],
+    "kanadagans": [
+     [
+      "Kanadagans",
+      "keine"
+     ]
+    ],
+    "nilgans": [
+     [
+      "Nilgans",
+      "keine"
+     ]
+    ],
+    "blaessgans": [
+     [
+      "Bläss-, Saat-, Ringelgans",
+      "keine"
+     ]
+    ],
+    "schwan": [
+     [
+      "Höckerschwan",
+      "keine"
+     ]
+    ],
+    "moewen": [
+     [
+      "Möwen",
+      "keine"
+     ]
+    ]
+   }
+  },
+  "MV": {
+   "qual": "C",
+   "bund": true,
+   "stand": "Amtlicher Landestext nicht ausgewertet. Es wird nur der Bundesrahmen gezeigt",
+   "quelle": [
+    [
+     "Landesrecht Mecklenburg-Vorpommern (amtliches Portal)",
+     "https://www.landesrecht-mv.de"
+    ],
+    [
+     "Bundes-JagdZeitV § 1",
+     "https://www.gesetze-im-internet.de/jagdzeitv_1977/BJNR005310977.html"
+    ]
+   ],
+   "hinweis": "Das Landesrecht weicht vom Bundesrahmen ab (u. a. Schalenwild, Raubwild, Rebhuhn, Gänse und Enten). Die angezeigten Zeiten sind nur der Bundesrahmen und können falsch sein, auch zu großzügig. Vor der Jagd die Landesverordnung im amtlichen Portal prüfen.",
+   "zeiten": {}
+  },
+  "TH": {
+   "qual": "C",
+   "bund": true,
+   "stand": "Amtlicher Landestext nicht ausgewertet. Es wird nur der Bundesrahmen gezeigt",
+   "quelle": [
+    [
+     "Landesrecht Thüringen (amtliches Portal)",
+     "https://landesrecht.thueringen.de"
+    ],
+    [
+     "Bundes-JagdZeitV § 1",
+     "https://www.gesetze-im-internet.de/jagdzeitv_1977/BJNR005310977.html"
+    ]
+   ],
+   "hinweis": "Das Landesrecht weicht vom Bundesrahmen ab (u. a. Schalenwild, Niederwild und Krähen; eine Änderungsverordnung war 2026 im Verfahren). Die angezeigten Zeiten sind nur der Bundesrahmen und können falsch sein, auch zu großzügig. Vor der Jagd die Landesverordnung im amtlichen Portal prüfen.",
+   "zeiten": {}
+  },
+  "ST": {
+   "qual": "C",
+   "bund": true,
+   "stand": "Amtlicher Landestext nicht ausgewertet. Es wird nur der Bundesrahmen gezeigt",
+   "quelle": [
+    [
+     "Landesrecht Sachsen-Anhalt (amtliches Portal)",
+     "https://www.landesrecht.sachsen-anhalt.de"
+    ],
+    [
+     "Bundes-JagdZeitV § 1",
+     "https://www.gesetze-im-internet.de/jagdzeitv_1977/BJNR005310977.html"
+    ]
+   ],
+   "hinweis": "Das Landesrecht weicht vom Bundesrahmen ab (u. a. Schalenwild, Ringeltaube und Gänse). Die angezeigten Zeiten sind nur der Bundesrahmen und können falsch sein, auch zu großzügig. Vor der Jagd die Landesverordnung im amtlichen Portal prüfen.",
+   "zeiten": {}
+  },
+  "SN": {
+   "qual": "A",
+   "bund": true,
+   "stand": "SächsJagdVO § 4, Fassung 01.10.2021. Nicht genannte Arten: Bundesrecht",
+   "quelle": [
+    [
+     "SächsJagdVO (REVOSAX)",
+     "https://www.revosax.sachsen.de/vorschrift_gesamt/12563/49914.pdf"
+    ],
+    [
+     "Bundes-JagdZeitV § 1",
+     "https://www.gesetze-im-internet.de/jagdzeitv_1977/BJNR005310977.html"
+    ]
+   ],
+   "hinweis": "Die obere Jagdbehörde kann jährlich Beschränkungen zur Bestandessicherung im Sächsischen Amtsblatt bekannt machen (§ 4 Abs. 3). Graureiher nur im Umkreis von 200 m um bewirtschaftete Fischereianlagen. Nationalpark Sächsische Schweiz: Dam- und Muffelwild ganzjährig.",
+   "zeiten": {
+    "rot": [
+     [
+      "Kälber, Schmalspießer, Schmaltiere",
+      "1.8.-31.1."
+     ],
+     [
+      "Hirsche, Alttiere",
+      "1.8.-31.1.",
+      "Bundesrecht"
+     ]
+    ],
+    "dam": [
+     [
+      "Alle Klassen",
+      "1.8.-31.1.",
+      "Nationalpark Sächsische Schweiz: ganzjährig"
+     ]
+    ],
+    "sika": [
+     [
+      "Alle Klassen",
+      "1.8.-31.1."
+     ]
+    ],
+    "reh": [
+     [
+      "Böcke, Schmalrehe",
+      "16.4.-31.1."
+     ],
+     [
+      "Kitze, Ricken",
+      "1.8.-31.1."
+     ]
+    ],
+    "gams": [
+     [
+      "Gamswild",
+      "1.8.-31.1."
+     ]
+    ],
+    "muffel": [
+     [
+      "Muffelwild",
+      "1.8.-31.1.",
+      "Bundesrecht; Nationalpark Sächsische Schweiz: ganzjährig"
+     ]
+    ],
+    "schwarz": [
+     [
+      "Keiler, Bachen",
+      "ganz",
+      "§ 22 Abs. 4 BJagdG"
+     ],
+     [
+      "Frischlinge, Überläufer",
+      "ganz",
+      "Bundesrecht"
+     ]
+    ],
+    "mauswiesel": [
+     [
+      "Mauswiesel",
+      "keine"
+     ]
+    ],
+    "dachs": [
+     [
+      "Dachs",
+      "ganz",
+      "§ 22 Abs. 4 BJagdG"
+     ]
+    ],
+    "marderhund": [
+     [
+      "Marderhund",
+      "ganz"
+     ]
+    ],
+    "mink": [
+     [
+      "Mink",
+      "ganz"
+     ]
+    ],
+    "nutria": [
+     [
+      "Nutria",
+      "ganz"
+     ]
+    ],
+    "waschbaer": [
+     [
+      "Waschbär",
+      "ganz"
+     ]
+    ],
+    "rebhuhn": [
+     [
+      "Rebhuhn",
+      "keine"
+     ]
+    ],
+    "graugans": [
+     [
+      "Graugans",
+      "1.8.-31.1."
+     ]
+    ],
+    "nilgans": [
+     [
+      "Nilgans",
+      "1.8.-31.1."
+     ]
+    ],
+    "enten": [
+     [
+      "Krickente",
+      "keine"
+     ],
+     [
+      "Pfeif-, Spieß-, Berg-, Reiher-, Tafel-, Samt-, Trauerente",
+      "1.10.-15.1.",
+      "Bundesrecht"
+     ]
+    ],
+    "graureiher": [
+     [
+      "Graureiher",
+      "1.8.-31.1.",
+      "nur 200 m um Fischereianlagen"
+     ]
+    ],
+    "kraehe": [
+     [
+      "Raben-, Nebelkrähe",
+      "1.8.-15.3."
+     ]
+    ],
+    "elster": [
+     [
+      "Elster",
+      "1.8.-15.3."
+     ]
+    ]
+   }
+  },
+  "SH": {
+   "qual": "C",
+   "bund": true,
+   "stand": "Amtlicher Landestext nicht ausgewertet. Es wird nur der Bundesrahmen gezeigt",
+   "quelle": [
+    [
+     "Landesrecht Schleswig-Holstein (amtliches Portal)",
+     "https://www.gesetze-rechtsprechung.sh.juris.de"
+    ],
+    [
+     "Bundes-JagdZeitV § 1",
+     "https://www.gesetze-im-internet.de/jagdzeitv_1977/BJNR005310977.html"
+    ]
+   ],
+   "hinweis": "Das Landesrecht weicht vom Bundesrahmen ab (u. a. Schalenwild, Raubwild, Gänse, Nutria und Wolf; Landesverordnung zuletzt 2024 geändert). Die angezeigten Zeiten sind nur der Bundesrahmen und können falsch sein, auch zu großzügig. Vor der Jagd die Landesverordnung im amtlichen Portal prüfen.",
+   "zeiten": {}
+  },
+  "HH": {
+   "qual": "B",
+   "bund": true,
+   "stand": "Verordnung über jagdrechtliche Regelungen vom 01.04.2014 (HmbGVBl. S. 126). Wortlaut über umwelt-online, Stand 25.01.2021",
+   "quelle": [
+    [
+     "Hamburger Verordnung (Wortlaut, umwelt-online)",
+     "https://umwelt-online.de/recht/natursch/laender/hh/jagdzv.htm"
+    ],
+    [
+     "Landesrecht Hamburg (amtliches Portal)",
+     "https://www.landesrecht-hamburg.de"
+    ],
+    [
+     "Bundes-JagdZeitV § 1",
+     "https://www.gesetze-im-internet.de/jagdzeitv_1977/BJNR005310977.html"
+    ]
+   ],
+   "hinweis": "Nicht genannte Arten: Bundesrecht. Spätere Änderungen sind nicht amtlich geprüft. Bergedorf und Harburg: zusätzliche Zeiten zur Schadensabwehr bei Gänsen und Höckerschwan.",
+   "zeiten": {
+    "rot": [
+     [
+      "Schmalspießer",
+      "1.6.-31.1."
+     ],
+     [
+      "Schmaltiere",
+      "1.6.-31.1.",
+      "Bundesrecht"
+     ],
+     [
+      "Kälber",
+      "1.8.-28.2.",
+      "Bundesrecht"
+     ],
+     [
+      "Hirsche, Alttiere",
+      "1.8.-31.1.",
+      "Bundesrecht"
+     ]
+    ],
+    "dam": [
+     [
+      "Schmalspießer",
+      "1.7.-31.1."
+     ],
+     [
+      "Schmaltiere",
+      "1.7.-31.1.",
+      "Bundesrecht"
+     ],
+     [
+      "Kälber",
+      "1.9.-28.2.",
+      "Bundesrecht"
+     ],
+     [
+      "Hirsche, Alttiere",
+      "1.9.-31.1.",
+      "Bundesrecht"
+     ]
+    ],
+    "sika": [
+     [
+      "Schmalspießer",
+      "1.7.-31.1."
+     ],
+     [
+      "Schmaltiere",
+      "1.7.-31.1.",
+      "Bundesrecht"
+     ],
+     [
+      "Kälber",
+      "1.9.-28.2.",
+      "Bundesrecht"
+     ],
+     [
+      "Hirsche, Alttiere",
+      "1.9.-31.1.",
+      "Bundesrecht"
+     ]
+    ],
+    "reh": [
+     [
+      "Kitze",
+      "1.9.-31.1."
+     ],
+     [
+      "Schmalrehe",
+      "1.5.-15.6. + 1.9.-31.1."
+     ],
+     [
+      "Ricken",
+      "1.9.-31.1.",
+      "Bundesrecht"
+     ],
+     [
+      "Böcke",
+      "1.5.-15.10.",
+      "Bundesrecht"
+     ]
+    ],
+    "hase": [
+     [
+      "Feldhase",
+      "1.10.-31.12."
+     ]
+    ],
+    "dachs": [
+     [
+      "Dachs",
+      "16.9.-31.10."
+     ]
+    ],
+    "waschbaer": [
+     [
+      "Waschbär",
+      "ganz",
+      "§ 22 Abs. 4 BJagdG"
+     ]
+    ],
+    "marderhund": [
+     [
+      "Marderhund",
+      "ganz",
+      "§ 22 Abs. 4 BJagdG"
+     ]
+    ],
+    "baummarder": [
+     [
+      "Baummarder",
+      "keine"
+     ]
+    ],
+    "iltis": [
+     [
+      "Iltis",
+      "keine"
+     ]
+    ],
+    "hermelin": [
+     [
+      "Hermelin",
+      "keine"
+     ]
+    ],
+    "mauswiesel": [
+     [
+      "Mauswiesel",
+      "keine"
+     ]
+    ],
+    "rebhuhn": [
+     [
+      "Rebhuhn",
+      "1.9.-30.11."
+     ]
+    ],
+    "fasan": [
+     [
+      "Hähne",
+      "16.10.-15.1."
+     ],
+     [
+      "Hennen",
+      "keine"
+     ]
+    ],
+    "tuerkentaube": [
+     [
+      "Türkentaube",
+      "keine"
+     ]
+    ],
+    "schwan": [
+     [
+      "Höckerschwan",
+      "1.11.-31.12.",
+      "nur Bergedorf und Harburg, Schadensabwehr"
+     ]
+    ],
+    "graugans": [
+     [
+      "Graugans",
+      "1.8.-31.8. + 1.11.-15.1.",
+      "Bergedorf: 1.9.-31.10. zur Schadensabwehr"
+     ]
+    ],
+    "kanadagans": [
+     [
+      "Kanadagans",
+      "1.11.-15.1.",
+      "Bergedorf: 1.8.-31.10. zur Schadensabwehr"
+     ]
+    ],
+    "blaessgans": [
+     [
+      "Bläss-, Saat-, Ringelgans",
+      "keine"
+     ]
+    ],
+    "nilgans": [
+     [
+      "Nilgans",
+      "keine"
+     ]
+    ],
+    "enten": [
+     [
+      "Reiherente",
+      "1.10.-15.1.",
+      "Bundesrecht"
+     ],
+     [
+      "Übrige außer Stock- und Reiherente",
+      "keine"
+     ]
+    ],
+    "blaesshuhn": [
+     [
+      "Blässhuhn",
+      "keine"
+     ]
+    ],
+    "moewen": [
+     [
+      "Möwen",
+      "keine"
+     ]
+    ],
+    "kraehe": [
+     [
+      "Rabenkrähe",
+      "1.8.-20.2."
+     ]
+    ],
+    "elster": [
+     [
+      "Elster",
+      "keine"
+     ]
+    ]
+   }
+  },
+  "HB": {
+   "qual": "A",
+   "bund": true,
+   "stand": "BremJagdZVO vom 03.06.2019 (Brem.GBl. S. 442). Nicht genannte Arten: Bundesrecht",
+   "quelle": [
+    [
+     "Jagdzeitenverordnung, Brem.GBl. 2019 Nr. 79",
+     "https://www.gesetzblatt.bremen.de/fastmedia/218/2019_06_07_GBl_Nr_0079_signed.pdf"
+    ],
+    [
+     "Bundes-JagdZeitV § 1",
+     "https://www.gesetze-im-internet.de/jagdzeitv_1977/BJNR005310977.html"
+    ]
+   ],
+   "hinweis": "Ganzjährig geschont: Dachs, Birkhahn, Reiherente, Tafelente, Rebhuhn, Knäkente.",
+   "zeiten": {
+    "reh": [
+     [
+      "Kitze, Schmalrehe",
+      "1.9.-31.1."
+     ],
+     [
+      "Ricken",
+      "1.9.-31.1.",
+      "Bundesrecht"
+     ],
+     [
+      "Böcke",
+      "1.5.-15.10.",
+      "Bundesrecht"
+     ]
+    ],
+    "steinmarder": [
+     [
+      "Steinmarder",
+      "1.11.-31.1."
+     ]
+    ],
+    "baummarder": [
+     [
+      "Baummarder",
+      "1.11.-31.1."
+     ]
+    ],
+    "iltis": [
+     [
+      "Iltis",
+      "1.9.-31.1."
+     ]
+    ],
+    "hermelin": [
+     [
+      "Hermelin",
+      "1.9.-31.1."
+     ]
+    ],
+    "dachs": [
+     [
+      "Dachs",
+      "keine"
+     ]
+    ],
+    "nutria": [
+     [
+      "Nutria",
+      "ganz",
+      "für die Aufzucht notwendige Elterntiere ausgenommen"
+     ]
+    ],
+    "waschbaer": [
+     [
+      "Waschbär",
+      "16.7.-31.3."
+     ],
+     [
+      "Jungwaschbären",
+      "ganz"
+     ]
+    ],
+    "marderhund": [
+     [
+      "Marderhund",
+      "1.9.-28.2."
+     ],
+     [
+      "Jungmarderhunde",
+      "ganz"
+     ]
+    ],
+    "rebhuhn": [
+     [
+      "Rebhuhn",
+      "keine"
+     ]
+    ],
+    "nilgans": [
+     [
+      "Nilgans",
+      "1.8.-15.1."
+     ]
+    ],
+    "enten": [
+     [
+      "Reiher-, Tafel-, Knäkente",
+      "keine"
+     ],
+     [
+      "Pfeif-, Krick-, Spieß-, Berg-, Samt-, Trauerente",
+      "1.10.-15.1.",
+      "Bundesrecht"
+     ]
+    ]
+   }
+  },
+  "RP": {
+   "qual": "C",
+   "bund": true,
+   "stand": "Amtlicher Landestext nicht ausgewertet. Es wird nur der Bundesrahmen gezeigt",
+   "quelle": [
+    [
+     "Landesrecht Rheinland-Pfalz (amtliches Portal)",
+     "https://landesrecht.rlp.de"
+    ],
+    [
+     "Bundes-JagdZeitV § 1",
+     "https://www.gesetze-im-internet.de/jagdzeitv_1977/BJNR005310977.html"
+    ]
+   ],
+   "hinweis": "Das Landesrecht weicht vom Bundesrahmen ab (u. a. Schalenwild und Niederwild; neues Landesjagdgesetz gilt ab 01.04.2027). Die angezeigten Zeiten sind nur der Bundesrahmen und können falsch sein, auch zu großzügig. Vor der Jagd die Landesverordnung im amtlichen Portal prüfen.",
+   "zeiten": {}
+  },
+  "SL": {
+   "qual": "C",
+   "bund": true,
+   "stand": "Amtlicher Landestext nicht ausgewertet. Es wird nur der Bundesrahmen gezeigt",
+   "quelle": [
+    [
+     "Landesrecht Saarland (amtliches Portal)",
+     "https://recht.saarland.de"
+    ],
+    [
+     "Bundes-JagdZeitV § 1",
+     "https://www.gesetze-im-internet.de/jagdzeitv_1977/BJNR005310977.html"
+    ]
+   ],
+   "hinweis": "Das Landesrecht weicht vom Bundesrahmen ab (Anlage 3 der DV-SJG). Die angezeigten Zeiten sind nur der Bundesrahmen und können falsch sein, auch zu großzügig. Vor der Jagd die Landesverordnung im amtlichen Portal prüfen.",
+   "zeiten": {}
+  }
+ }
+}
