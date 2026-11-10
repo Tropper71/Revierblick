@@ -1,3 +1,5 @@
+<p align="center"><img src="icon.png" width="160" alt="Revierkompass-Icon: Rehbock vor einem Mond mit Kompassskala"></p>
+
 # revierkompass-daten
 
 Rechtsdaten (Jagdzeiten und jagdrechtliche Hinweise) für die App **Revierkompass**.
