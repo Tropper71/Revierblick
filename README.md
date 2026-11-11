@@ -1,4 +1,4 @@
-<p align="center"><img src="icon.png" width="160" alt="Revierblick-Icon: Rehbock vor einem Mond mit Kompassskala"></p>
+<p align="center"><img src="social-preview.png" width="100%" alt="Revierblick: kostenlose Jagd-App für Android mit Wetter und Wind, Büchsenlicht, Mond und Solunar, Revierkarte, Ansitzplanung, Jagdbuch und Jagdzeiten aus amtlichen Quellen"></p>
 
 # Revierblick
 
