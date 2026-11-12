@@ -31,6 +31,11 @@ c.setTitle("Überlassung erlaubnispflichtiger Schusswaffen - Vordruck")
 c.setAuthor("Privater Vordruck")
 c.setSubject("Überlassungsprotokoll und Anzeigen nach §§ 34, 37a, 37f, 37g WaffG")
 form = c.acroForm
+import os
+ROWS = {"S1": 9, "S2": 11, "S3": 9}
+if os.environ.get("ROWS"):
+    ROWS.update(dict(zip(["S1", "S2", "S3"], map(int, os.environ["ROWS"].split(",")))))
+END = {}
 page_no = [0]
 
 
@@ -283,7 +288,7 @@ y = row(y, P + "e", [("Art der Erlaubnis", 2.4, "erl_art"), ("Nummer", 1.6, "erl
                      ("Ausstellende Behörde", 2.4, "erl_beh"), ("Gültig bis", 1, "erl_gueltig")])
 y -= 6
 y = section(y, "3  Überlassene Waffe(n)  (Daten wie in der WBK eingetragen)")
-y = weapon_table(y, P, rows=3)
+y = weapon_table(y, P, rows=ROWS[P])
 y = row(y, P, [("Mitüberlassene Munition: Kaliber / Stückzahl (nur bei Munitionserwerbsberechtigung)", 4, "mun"),
                ("Mitüberlassenes Zubehör (z. B. Zielfernrohr, Magazine)", 3, "zub")], h=20)
 y -= 6
@@ -307,7 +312,7 @@ y = checkline(y, P, "erk3", "Der Überlassende zeigt die Überlassung binnen zwe
 y = checkline(y, P, "erk4", "Der Erwerber zeigt den Erwerb binnen zwei Wochen an und legt seine WBK zur Eintragung vor (§§ 37a Satz 1 Nr. 2, "
                           "37g Abs. 1 WaffG) bzw. beantragt als Jagdscheininhaber binnen zwei Wochen die WBK (§ 13 Abs. 3 WaffG).")
 y -= 4
-signatures(y, P, ["Unterschrift Überlassender", "Unterschrift Erwerber"], h=32)
+END[P] = signatures(y, P, ["Unterschrift Überlassender", "Unterschrift Erwerber"], h=32)
 footer()
 c.showPage()
 
@@ -336,7 +341,7 @@ y = row(y, P, [("Datum der Überlassung", 1.5, "datum"), ("Austragung aus WBK-Nr
                ("Lfd. Nr. des Eintrags in der WBK", 2, "lfdnr")])
 y -= 6
 y = section(y, "4  Waffe(n)  (§ 37f Abs. 1 Nr. 5 WaffG)")
-y = weapon_table(y, P, rows=3)
+y = weapon_table(y, P, rows=ROWS[P])
 y -= 6
 y = section(y, "5  Erwerber  (§ 37f Abs. 2 Nr. 1 und 2 WaffG)")
 y = person_short(y, P + "e")
@@ -350,7 +355,7 @@ y = checkline(y, P, "anl3", "Europäischer Feuerwaffenpass (sofern die Waffe dor
 y -= 6
 y = para(y, "Ich versichere die Richtigkeit und Vollständigkeit meiner Angaben.", size=7.5)
 y -= 6
-signatures(y, P, ["Unterschrift Anzeigender"], h=30)
+END[P] = signatures(y, P, ["Unterschrift Anzeigender"], h=30)
 footer()
 c.showPage()
 
@@ -382,7 +387,7 @@ y = row(y, P, [("Datum des Erwerbs", 1.5, "datum"), ("Eintragung in WBK-Nr.", 2,
                ("Genutzter Voreintrag / Erwerbsberechtigung", 2.5, "vor")])
 y -= 6
 y = section(y, "4  Waffe(n)  (§ 37f Abs. 1 Nr. 5 WaffG)")
-y = weapon_table(y, P, rows=3)
+y = weapon_table(y, P, rows=ROWS[P])
 y -= 6
 y = section(y, "5  Überlassender  (§ 37f Abs. 2 Nr. 3 WaffG)")
 y = person_full(y, P + "u")
@@ -390,7 +395,7 @@ y -= 6
 y = checkline(y, P, "anl1", "Anlage: Waffenbesitzkarte im Original zur Eintragung (§ 37g Abs. 1 WaffG); Kopie des Überlassungsprotokolls")
 y = para(y - 2, "Ich versichere die Richtigkeit und Vollständigkeit meiner Angaben.", size=7.5)
 y -= 6
-signatures(y, P, ["Unterschrift Anzeigender"], h=30)
+END[P] = signatures(y, P, ["Unterschrift Anzeigender"], h=30)
 footer()
 c.showPage()
 
@@ -440,4 +445,4 @@ y = para(y, "<i>Dieser Vordruck ist ein privates Hilfsmittel und ersetzt keine R
 footer()
 c.showPage()
 c.save()
-print("ok")
+print("ok", {k: round(v) for k, v in END.items()})
