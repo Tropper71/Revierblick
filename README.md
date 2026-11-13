@@ -14,15 +14,15 @@ https://raw.githubusercontent.com/Tropper71/Revierblick/main/rechtsdaten.json
 
 ## App herunterladen
 
-[Revierblick-2.1.1.apk](app/Revierblick-2.1.1.apk) (Android 7.0 oder neuer)
+[Revierblick-2.2.0.apk](app/Revierblick-2.2.0.apk) (Android 7.0 oder neuer)
 
-Direkter Download: https://raw.githubusercontent.com/Tropper71/Revierblick/main/app/Revierblick-2.1.1.apk
+Direkter Download: https://raw.githubusercontent.com/Tropper71/Revierblick/main/app/Revierblick-2.2.0.apk
 
 APK antippen, Installation aus dieser Quelle einmal erlauben. Updates werden einfach über die vorhandene Version installiert, alle Daten bleiben erhalten, auch beim Wechsel von Revierkompass auf Revierblick. Anleitung im Handbuch, Kapitel 2.
 
 ## Handbuch
 
-[Revierblick-Handbuch.pdf](docs/Revierblick-Handbuch.pdf) (34 Seiten, Version 2.1.0, Stand 11.11.2026)
+[Revierblick-Handbuch.pdf](docs/Revierblick-Handbuch.pdf) (35 Seiten, Version 2.2.0, Stand 13.11.2026)
 
 Direkter Download: https://raw.githubusercontent.com/Tropper71/Revierblick/main/docs/Revierblick-Handbuch.pdf
 
