@@ -79,7 +79,9 @@ Verlagstabellen werden nicht verwendet. Die Datei wird jede Woche gegen die amtl
 
 ## Lizenz
 
-Die Rechtsdaten (`rechtsdaten.json`) stehen unter CC0 1.0 Universal, siehe [LICENSE](LICENSE).
+- **Rechtsdaten** (`rechtsdaten.json`): CC0 1.0 Universal, siehe [LICENSE](LICENSE). Die Datei LICENSE gilt nur für die Rechtsdaten.
+- **App, Handbuch und Bilder** (`app/`, `docs/Revierblick-Handbuch.pdf`, `icon.png`, `social-preview.png`): © 2026 Tropper71. Kostenlose Nutzung und unveränderte Weitergabe erlaubt, alle übrigen Rechte vorbehalten.
+- **Bausteine Dritter in der App:** Leaflet (BSD-2-Clause), Schriften Barlow und Barlow Condensed (SIL Open Font License 1.1). Die Lizenztexte stehen in der App unter *Mehr > Über die App*.
 
 ## Haftungsausschluss
 
