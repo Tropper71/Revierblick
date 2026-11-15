@@ -2,21 +2,21 @@
 
 # Revierblick
 
-**Die kostenlose Jagd-App für Android.** Wetter und Wind, Büchsenlicht, Mond und Solunar, Satellit, Radar und Wetterfilm, Revierkarte mit Ständen, Entfernungs- und Flächenmessung, Standwahl nach Wind, Auto-Standort mit Rückführung, Jagdbuch und Jagdzeiten aller Bundesländer in einer App. Ohne Werbung, ohne Konto, alle Revierdaten bleiben auf deinem Handy.
+**Die kostenlose Jagd-App für Android.** Wetter und Wind, Büchsenlicht, Mond und Solunar, Satellit, Radar und Wetterfilm, Revierkarte mit Ständen, Entfernungs- und Flächenmessung, Standwahl nach Wind, Auto-Standort mit Rückführung, Anschussmeldung an den Schweißhundeführer, Jagdbuch und Jagdzeiten aller Bundesländer in einer App. Ohne Werbung, ohne Konto, alle Revierdaten bleiben auf deinem Handy.
 
 | | |
 |---|---|
-| **Aktuelle Version** | 2.5.0 vom 15.11.2026 |
+| **Aktuelle Version** | 2.6.0 vom 15.11.2026 |
 | **Android** | 7.0 oder neuer |
 | **Rechtsdaten** | Fassung 2026-11-10.3, wöchentlich gegen amtliche Quellen geprüft |
-| **Handbuch** | 40 Seiten, passend zu Version 2.5.0 |
+| **Handbuch** | 42 Seiten, passend zu Version 2.6.0 |
 
 ## Herunterladen
 
 | Datei | Download |
 |---|---|
-| App, Version 2.5.0 (Android 7.0 oder neuer) | [Revierblick-2.5.0.apk](https://raw.githubusercontent.com/Tropper71/Revierblick/main/app/Revierblick-2.5.0.apk) |
-| Handbuch (PDF, 40 Seiten) | [Revierblick-Handbuch.pdf](https://raw.githubusercontent.com/Tropper71/Revierblick/main/docs/Revierblick-Handbuch.pdf) |
+| App, Version 2.6.0 (Android 7.0 oder neuer) | [Revierblick-2.6.0.apk](https://raw.githubusercontent.com/Tropper71/Revierblick/main/app/Revierblick-2.6.0.apk) |
+| Handbuch (PDF, 42 Seiten) | [Revierblick-Handbuch.pdf](https://raw.githubusercontent.com/Tropper71/Revierblick/main/docs/Revierblick-Handbuch.pdf) |
 
 ### So installierst du die App
 1. Den Link oben auf dem Handy antippen und die APK herunterladen.
@@ -30,7 +30,19 @@
 
 > Keine Rechtsberatung. Maßgeblich sind die amtlich verkündeten Vorschriften und die Anordnungen deiner Jagdbehörde.
 
-## Neu in Version 2.5.0: Wetterkarte mit Satellit, Radar und Wetterfilm
+## Neu in Version 2.6.0: Anschuss an den Schweißhundeführer melden
+
+Mit **Melden** an einer offenen Nachsuche gehen alle Angaben zum Anschuss per WhatsApp, SMS oder E-Mail an den hinterlegten Schweißhundeführer:
+
+- **Nachricht automatisch erstellt:** Wildart, Schusszeit, Stand und Revier, Schussentfernung, Reaktion, Fluchtrichtung, Pirschzeichen, laufende Wartezeit, Koordinaten des Anschusses mit Kartenlink und Notiz. Der Text lässt sich vor dem Senden ändern
+- **Treffpunkt:** auf Wunsch der gespeicherte Auto-Standort mit Kartenlink
+- **Absender für Rückfragen** wird gespeichert und mitgeschickt
+- **Versand:** WhatsApp, SMS oder E-Mail öffnen sich mit Empfänger und Text, über *Andere App* geht es auch an Signal oder eine Gruppe. Abgeschickt wird in der jeweiligen App
+- Wird beim Erfassen eines neuen Anschusses ein Schweißhundeführer gewählt, öffnet sich die Meldung nach dem Speichern von selbst
+- Schweißhundeführer haben jetzt auch eine E-Mail-Adresse und lassen sich bearbeiten
+- Auf der Nachsuche steht danach, an wen, auf welchem Weg und wann gemeldet wurde
+
+## Seit Version 2.5.0: Wetterkarte mit Satellit, Radar und Wetterfilm
 
 Der neue Reiter **Wetterkarte** auf der Wetterseite zeigt das Wetter großräumig um deinen Standort und lässt es als Film ablaufen:
 
@@ -82,7 +94,7 @@ Ein Tipp auf **Passende Stände jetzt finden** (in der Ansitzplanung, als Karte 
 - **Wetterkarte:** Satellitenbild, Niederschlagsradar mit 2-Stunden-Vorhersage, Vorhersagefilm 48 h mit Wolken, Niederschlag, Wind und Temperatur
 - **Mond:** Phase, Auf- und Untergang, Mondkalender, Solunar-Perioden
 - **Karte:** basemap.de, Luftbild und Flurstücke Brandenburg, OpenStreetMap, OpenTopoMap; Einrichtungen, Witterungsfahnen, Windpfeile, Entfernungsringe 100, 200 und 300 m, Messen, Pirschwege, Offline-Karten
-- **Jagdbuch:** Ansitzbuch, Strecke, Nachsuche mit Anschuss und Wartezeit, Abschussplan, Wildschaden
+- **Jagdbuch:** Ansitzbuch, Strecke, Nachsuche mit Anschuss, Wartezeit und Meldung an den Schweißhundeführer per WhatsApp, SMS oder E-Mail, Abschussplan, Wildschaden
 - **Jagdrecht:** Jagdzeiten aller 16 Länder, für Brandenburg mit BbgJagdG, BbgJagdDV und Artenliste; Rechtsdaten per Online-Update mit Vorschau der Änderungen
 - **Messen:** Strecke, Entfernung vom eigenen Standort oder ab einem Stand, Fläche mit Umfang
 - **Auto-Standort:** Auto per GPS merken und mit Pfeil und Entfernung zurückfinden
@@ -93,7 +105,8 @@ Ein Tipp auf **Passende Stände jetzt finden** (in der Ansitzplanung, als Karte 
 
 | Version | Datum | Inhalt |
 |---|---|---|
-| **2.5.0** | 15.11.2026 | Wetterkarte mit Satellit, Radar, Radarvorhersage und Vorhersagefilm 48 h; Handbuch auf 40 Seiten erweitert |
+| **2.6.0** | 15.11.2026 | Anschuss per WhatsApp, SMS oder E-Mail an den Schweißhundeführer melden, Kontakte mit E-Mail und bearbeitbar; Handbuch auf 42 Seiten erweitert |
+| 2.5.0 | 15.11.2026 | Wetterkarte mit Satellit, Radar, Radarvorhersage und Vorhersagefilm 48 h; Handbuch auf 40 Seiten erweitert |
 | 2.4.0 | 15.11.2026 | Messwerkzeug mit eigenem Knopf: Strecke, vom Standort, ab Stand, Fläche; Handbuch auf 38 Seiten erweitert |
 | 2.3.0 | 15.11.2026 | Auto-Standort per GPS merken, Führung zum Auto mit Pfeil und Entfernung, Fehler in der Standwahl bei Seitenwind behoben, Handbuch auf 37 Seiten erweitert |
 | 2.2.0 | 13.11.2026 | Intelligente Standwahl auf Knopfdruck, Feld *Anmarsch kommt aus*, Handbuch auf 35 Seiten erweitert |
