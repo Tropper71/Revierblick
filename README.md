@@ -6,17 +6,17 @@
 
 | | |
 |---|---|
-| **Aktuelle Version** | 2.6.0 vom 15.11.2026 |
+| **Aktuelle Version** | 2.6.1 vom 15.11.2026 |
 | **Android** | 7.0 oder neuer |
 | **Rechtsdaten** | Fassung 2026-11-10.3, wöchentlich gegen amtliche Quellen geprüft |
-| **Handbuch** | 42 Seiten, passend zu Version 2.6.0 |
+| **Handbuch** | 43 Seiten, passend zu Version 2.6.1 |
 
 ## Herunterladen
 
 | Datei | Download |
 |---|---|
-| App, Version 2.6.0 (Android 7.0 oder neuer) | [Revierblick-2.6.0.apk](https://raw.githubusercontent.com/Tropper71/Revierblick/main/app/Revierblick-2.6.0.apk) |
-| Handbuch (PDF, 42 Seiten) | [Revierblick-Handbuch.pdf](https://raw.githubusercontent.com/Tropper71/Revierblick/main/docs/Revierblick-Handbuch.pdf) |
+| App, Version 2.6.1 (Android 7.0 oder neuer) | [Revierblick-2.6.1.apk](https://raw.githubusercontent.com/Tropper71/Revierblick/main/app/Revierblick-2.6.1.apk) |
+| Handbuch (PDF, 43 Seiten) | [Revierblick-Handbuch.pdf](https://raw.githubusercontent.com/Tropper71/Revierblick/main/docs/Revierblick-Handbuch.pdf) |
 
 ### So installierst du die App
 1. Den Link oben auf dem Handy antippen und die APK herunterladen.
@@ -30,12 +30,12 @@
 
 > Keine Rechtsberatung. Maßgeblich sind die amtlich verkündeten Vorschriften und die Anordnungen deiner Jagdbehörde.
 
-## Neu in Version 2.6.0: Anschuss an den Schweißhundeführer melden
+## Neu in Version 2.6: Anschuss an den Schweißhundeführer melden
 
 Mit **Melden** an einer offenen Nachsuche gehen alle Angaben zum Anschuss per WhatsApp, SMS oder E-Mail an den hinterlegten Schweißhundeführer:
 
 - **Nachricht automatisch erstellt:** Wildart, Schusszeit, Stand und Revier, Schussentfernung, Reaktion, Fluchtrichtung, Pirschzeichen, laufende Wartezeit, Koordinaten des Anschusses mit Kartenlink und Notiz. Der Text lässt sich vor dem Senden ändern
-- **Treffpunkt:** auf Wunsch der gespeicherte Auto-Standort mit Kartenlink
+- **Treffpunkt (seit 2.6.1):** freiwillig, ab Werk keiner. Wählbar sind der gespeicherte Auto-Standort oder eine freie Position per GPS, auf der Karte oder als Koordinaten, jeweils mit Bezeichnung und Kartenlink
 - **Absender für Rückfragen** wird gespeichert und mitgeschickt
 - **Versand:** WhatsApp, SMS oder E-Mail öffnen sich mit Empfänger und Text, über *Andere App* geht es auch an Signal oder eine Gruppe. Abgeschickt wird in der jeweiligen App
 - Wird beim Erfassen eines neuen Anschusses ein Schweißhundeführer gewählt, öffnet sich die Meldung nach dem Speichern von selbst
@@ -105,7 +105,8 @@ Ein Tipp auf **Passende Stände jetzt finden** (in der Ansitzplanung, als Karte 
 
 | Version | Datum | Inhalt |
 |---|---|---|
-| **2.6.0** | 15.11.2026 | Anschuss per WhatsApp, SMS oder E-Mail an den Schweißhundeführer melden, Kontakte mit E-Mail und bearbeitbar; Handbuch auf 42 Seiten erweitert |
+| **2.6.1** | 15.11.2026 | Treffpunkt in der Anschussmeldung frei wählbar (keiner, Auto-Standort oder freie Position per GPS, Karte oder Koordinaten), nicht mehr automatisch das Auto; Handbuch 43 Seiten |
+| 2.6.0 | 15.11.2026 | Anschuss per WhatsApp, SMS oder E-Mail an den Schweißhundeführer melden, Kontakte mit E-Mail und bearbeitbar; Handbuch auf 42 Seiten erweitert |
 | 2.5.0 | 15.11.2026 | Wetterkarte mit Satellit, Radar, Radarvorhersage und Vorhersagefilm 48 h; Handbuch auf 40 Seiten erweitert |
 | 2.4.0 | 15.11.2026 | Messwerkzeug mit eigenem Knopf: Strecke, vom Standort, ab Stand, Fläche; Handbuch auf 38 Seiten erweitert |
 | 2.3.0 | 15.11.2026 | Auto-Standort per GPS merken, Führung zum Auto mit Pfeil und Entfernung, Fehler in der Standwahl bei Seitenwind behoben, Handbuch auf 37 Seiten erweitert |
