@@ -2,21 +2,21 @@
 
 # Revierblick
 
-**Die kostenlose Jagd-App für Android.** Wetter und Wind, Büchsenlicht, Mond und Solunar, Revierkarte mit Ständen, Entfernungs- und Flächenmessung, Standwahl nach Wind, Auto-Standort mit Rückführung, Jagdbuch und Jagdzeiten aller Bundesländer in einer App. Ohne Werbung, ohne Konto, alle Revierdaten bleiben auf deinem Handy.
+**Die kostenlose Jagd-App für Android.** Wetter und Wind, Büchsenlicht, Mond und Solunar, Satellit, Radar und Wetterfilm, Revierkarte mit Ständen, Entfernungs- und Flächenmessung, Standwahl nach Wind, Auto-Standort mit Rückführung, Jagdbuch und Jagdzeiten aller Bundesländer in einer App. Ohne Werbung, ohne Konto, alle Revierdaten bleiben auf deinem Handy.
 
 | | |
 |---|---|
-| **Aktuelle Version** | 2.4.0 vom 15.11.2026 |
+| **Aktuelle Version** | 2.5.0 vom 15.11.2026 |
 | **Android** | 7.0 oder neuer |
 | **Rechtsdaten** | Fassung 2026-11-10.3, wöchentlich gegen amtliche Quellen geprüft |
-| **Handbuch** | 38 Seiten, passend zu Version 2.4.0 |
+| **Handbuch** | 40 Seiten, passend zu Version 2.5.0 |
 
 ## Herunterladen
 
 | Datei | Download |
 |---|---|
-| App, Version 2.4.0 (Android 7.0 oder neuer) | [Revierblick-2.4.0.apk](https://raw.githubusercontent.com/Tropper71/Revierblick/main/app/Revierblick-2.4.0.apk) |
-| Handbuch (PDF, 38 Seiten) | [Revierblick-Handbuch.pdf](https://raw.githubusercontent.com/Tropper71/Revierblick/main/docs/Revierblick-Handbuch.pdf) |
+| App, Version 2.5.0 (Android 7.0 oder neuer) | [Revierblick-2.5.0.apk](https://raw.githubusercontent.com/Tropper71/Revierblick/main/app/Revierblick-2.5.0.apk) |
+| Handbuch (PDF, 40 Seiten) | [Revierblick-Handbuch.pdf](https://raw.githubusercontent.com/Tropper71/Revierblick/main/docs/Revierblick-Handbuch.pdf) |
 
 ### So installierst du die App
 1. Den Link oben auf dem Handy antippen und die APK herunterladen.
@@ -30,7 +30,18 @@
 
 > Keine Rechtsberatung. Maßgeblich sind die amtlich verkündeten Vorschriften und die Anordnungen deiner Jagdbehörde.
 
-## Neu in Version 2.4.0: Entfernung und Fläche messen
+## Neu in Version 2.5.0: Wetterkarte mit Satellit, Radar und Wetterfilm
+
+Der neue Reiter **Wetterkarte** auf der Wetterseite zeigt das Wetter großräumig um deinen Standort und lässt es als Film ablaufen:
+
+- **Satellit und Radar:** Wolkenbild von Meteosat (EUMETSAT) in Echtfarben oder als Infrarotbild, das auch nachts funktioniert, darüber das Niederschlagsradar des DWD. Der Film läuft von 2 Stunden zurück bis 2 Stunden voraus, der vordere Teil ist die Radarvorhersage des DWD
+- **Vorhersage 48 h:** Wolken, Niederschlag, Wind und Temperatur Stunde für Stunde, einzeln zuschaltbar
+- **Film:** Abspielen und Anhalten, Einzelschritte, Zeitregler und drei Geschwindigkeiten. Zur Uhrzeit steht der Abstand zu jetzt
+- Standort und Reviergrenzen sind eingezeichnet, beim Verschieben der Karte lässt sich die Vorhersage für den neuen Ausschnitt laden
+
+Die Vorhersage beruht auf 81 Punkten im Abstand von etwa 30 km. Sie zeigt, wie Fronten und Regengebiete ziehen. Für das Revier selbst gilt die Stundenvorhersage auf der Wetterseite.
+
+## Seit Version 2.4.0: Entfernung und Fläche messen
 
 Das **Lineal** in der Kartenleiste startet das Messwerkzeug direkt auf der Karte:
 
@@ -67,7 +78,8 @@ Ein Tipp auf **Passende Stände jetzt finden** (in der Ansitzplanung, als Karte 
 ## Funktionen
 
 - **Heute:** Büchsenlicht mit Restzeit, Tagesuhr mit Wind, Dämmerung, Solunar und Mond, *Wo ansitzen?*, Jagdzeiten des Tages, Fristen
-- **Wetter:** amtliche DWD-Warnungen, Regenradar, 48 Stunden und 14 Tage, Luftdruckverlauf, Windkompass
+- **Wetter:** amtliche DWD-Warnungen, 48 Stunden und 14 Tage, Luftdruckverlauf, Windkompass
+- **Wetterkarte:** Satellitenbild, Niederschlagsradar mit 2-Stunden-Vorhersage, Vorhersagefilm 48 h mit Wolken, Niederschlag, Wind und Temperatur
 - **Mond:** Phase, Auf- und Untergang, Mondkalender, Solunar-Perioden
 - **Karte:** basemap.de, Luftbild und Flurstücke Brandenburg, OpenStreetMap, OpenTopoMap; Einrichtungen, Witterungsfahnen, Windpfeile, Entfernungsringe 100, 200 und 300 m, Messen, Pirschwege, Offline-Karten
 - **Jagdbuch:** Ansitzbuch, Strecke, Nachsuche mit Anschuss und Wartezeit, Abschussplan, Wildschaden
@@ -81,7 +93,8 @@ Ein Tipp auf **Passende Stände jetzt finden** (in der Ansitzplanung, als Karte 
 
 | Version | Datum | Inhalt |
 |---|---|---|
-| **2.4.0** | 15.11.2026 | Messwerkzeug mit eigenem Knopf: Strecke, vom Standort, ab Stand, Fläche; Handbuch auf 38 Seiten erweitert |
+| **2.5.0** | 15.11.2026 | Wetterkarte mit Satellit, Radar, Radarvorhersage und Vorhersagefilm 48 h; Handbuch auf 40 Seiten erweitert |
+| 2.4.0 | 15.11.2026 | Messwerkzeug mit eigenem Knopf: Strecke, vom Standort, ab Stand, Fläche; Handbuch auf 38 Seiten erweitert |
 | 2.3.0 | 15.11.2026 | Auto-Standort per GPS merken, Führung zum Auto mit Pfeil und Entfernung, Fehler in der Standwahl bei Seitenwind behoben, Handbuch auf 37 Seiten erweitert |
 | 2.2.0 | 13.11.2026 | Intelligente Standwahl auf Knopfdruck, Feld *Anmarsch kommt aus*, Handbuch auf 35 Seiten erweitert |
 | 2.1.1 | 11.11.2026 | Update-Adresse auf das umbenannte Repository *Revierblick* umgestellt, alte Adresse wird automatisch ersetzt |
@@ -112,7 +125,7 @@ Verlagstabellen werden nicht verwendet. Die Datei wird jede Woche gegen die amtl
 
 - **Rechtsdaten** (`rechtsdaten.json`): CC0 1.0 Universal, siehe [LICENSE](LICENSE). Die Datei LICENSE gilt nur für die Rechtsdaten.
 - **App, Handbuch, Formulare und Bilder** (`app/`, `docs/Revierblick-Handbuch.pdf`, `docs/formulare/`, `icon.png`, `social-preview.png`): © 2026 Tropper71. Kostenlose Nutzung und unveränderte Weitergabe erlaubt, alle übrigen Rechte vorbehalten.
-- **Bausteine Dritter in der App:** Leaflet (BSD-2-Clause), Schriften Barlow und Barlow Condensed (SIL Open Font License 1.1). Die Lizenztexte stehen in der App unter *Mehr > Über die App*.
+- **Bausteine Dritter in der App:** Leaflet (BSD-2-Clause), Schriften Barlow und Barlow Condensed (SIL Open Font License 1.1). Satellitenbilder © EUMETSAT, Radar und Warnungen: Deutscher Wetterdienst, Wetterdaten: Open-Meteo (CC BY 4.0). Die Lizenztexte stehen in der App unter *Mehr > Über die App*.
 
 ## Haftungsausschluss
 
