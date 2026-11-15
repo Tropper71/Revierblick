@@ -2,7 +2,7 @@
 
 # Revierblick
 
-**Die kostenlose Jagd-App für Android.** Wetter und Wind, Büchsenlicht, Mond und Solunar, Revierkarte mit Ständen, intelligente Ansitzplanung, Jagdbuch und Jagdzeiten aller Bundesländer in einer App. Ohne Werbung, ohne Konto, alle Revierdaten bleiben auf deinem Handy.
+**Die kostenlose Jagd-App für Android.** Wetter und Wind, Büchsenlicht, Mond und Solunar, Revierkarte mit Ständen, Entfernungs- und Flächenmessung, Standwahl nach Wind, Auto-Standort mit Rückführung, Jagdbuch und Jagdzeiten aller Bundesländer in einer App. Ohne Werbung, ohne Konto, alle Revierdaten bleiben auf deinem Handy.
 
 | | |
 |---|---|
@@ -15,15 +15,20 @@
 
 | Datei | Download |
 |---|---|
-| App, Version 2.4.0 | [Revierblick-2.4.0.apk](https://raw.githubusercontent.com/Tropper71/Revierblick/main/app/Revierblick-2.4.0.apk) |
-| Handbuch (PDF) | [Revierblick-Handbuch.pdf](https://raw.githubusercontent.com/Tropper71/Revierblick/main/docs/Revierblick-Handbuch.pdf) |
+| App, Version 2.4.0 (Android 7.0 oder neuer) | [Revierblick-2.4.0.apk](https://raw.githubusercontent.com/Tropper71/Revierblick/main/app/Revierblick-2.4.0.apk) |
+| Handbuch (PDF, 38 Seiten) | [Revierblick-Handbuch.pdf](https://raw.githubusercontent.com/Tropper71/Revierblick/main/docs/Revierblick-Handbuch.pdf) |
 
-### Installation
-1. Die APK auf dem Handy herunterladen und antippen.
-2. Beim ersten Mal die Installation aus dieser Quelle erlauben. Warnt Google Play Protect: *Trotzdem installieren*.
-3. In den Android-Einstellungen die Akku-Optimierung für Revierblick auf *Nicht eingeschränkt* stellen, damit Meldungen pünktlich kommen.
+### So installierst du die App
+1. Den Link oben auf dem Handy antippen und die APK herunterladen.
+2. Die Datei öffnen. Beim ersten Mal fragt Android, ob Apps aus dieser Quelle installiert werden dürfen: einmal erlauben.
+3. Warnt Google Play Protect, *Trotzdem installieren* wählen. Das ist bei Apps außerhalb des Play Stores normal.
+4. Tipp: In den Android-Einstellungen die Akku-Optimierung für Revierblick auf *Nicht eingeschränkt* stellen, damit Meldungen pünktlich kommen.
 
-**Update:** Neue Versionen einfach über die vorhandene installieren. Alle Daten bleiben erhalten, auch beim Wechsel von Revierkompass, Revierbuch oder Revierwetter. Ausführliche Anleitung im Handbuch, Kapitel 2.
+**Update:** Neue Versionen einfach über die alte installieren, alle Daten bleiben erhalten. Das gilt auch beim Wechsel von Revierkompass, Revierbuch oder Revierwetter. Ausführliche Anleitung im Handbuch, Kapitel 2.
+
+**Jagdrecht:** Die Jagdzeiten werden wöchentlich gegen die amtlichen Quellen geprüft. Die App meldet neue Fassungen und übernimmt sie erst nach deiner Bestätigung.
+
+> Keine Rechtsberatung. Maßgeblich sind die amtlich verkündeten Vorschriften und die Anordnungen deiner Jagdbehörde.
 
 ## Neu in Version 2.4.0: Entfernung und Fläche messen
 
