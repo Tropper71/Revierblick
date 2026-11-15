@@ -1,36 +1,40 @@
-<p align="center"><img src="social-preview.png" width="100%" alt="Revierblick: kostenlose Jagd-App für Android mit Wetter und Wind, Büchsenlicht, Mond und Solunar, Revierkarte, Ansitzplanung, Jagdbuch und Jagdzeiten aus amtlichen Quellen"></p>
+<p align="center"><img src="social-preview.png" width="100%" alt="Revierpilot: kostenlose Jagd-App für Android mit Wetter und Wind, Büchsenlicht, Mond und Solunar, Revierkarte, Ansitzplanung, Jagdbuch und Jagdzeiten aus amtlichen Quellen"></p>
 
-# Revierblick
+# Revierpilot
 
 **Die kostenlose Jagd-App für Android.** Wetter und Wind, Büchsenlicht, Mond und Solunar, Satellit, Radar und Wetterfilm, Revierkarte mit Ständen, Entfernungs- und Flächenmessung, Standwahl nach Wind, Auto-Standort mit Rückführung, Anschussmeldung an den Schweißhundeführer, Jagdbuch und Jagdzeiten aller Bundesländer in einer App. Ohne Werbung, ohne Konto, alle Revierdaten bleiben auf deinem Handy.
 
 | | |
 |---|---|
-| **Aktuelle Version** | 2.6.1 vom 15.11.2026 |
+| **Aktuelle Version** | 2.7.0 vom 15.11.2026 |
 | **Android** | 7.0 oder neuer |
 | **Rechtsdaten** | Fassung 2026-11-10.3, wöchentlich gegen amtliche Quellen geprüft |
-| **Handbuch** | 43 Seiten, passend zu Version 2.6.1 |
+| **Handbuch** | 43 Seiten, passend zu Version 2.7.0 |
 
 ## Herunterladen
 
 | Datei | Download |
 |---|---|
-| App, Version 2.6.1 (Android 7.0 oder neuer) | [Revierblick-2.6.1.apk](https://raw.githubusercontent.com/Tropper71/Revierblick/main/app/Revierblick-2.6.1.apk) |
-| Handbuch (PDF, 43 Seiten) | [Revierblick-Handbuch.pdf](https://raw.githubusercontent.com/Tropper71/Revierblick/main/docs/Revierblick-Handbuch.pdf) |
+| App, Version 2.7.0 (Android 7.0 oder neuer) | [Revierpilot-2.7.0.apk](https://raw.githubusercontent.com/Tropper71/Revierpilot/main/app/Revierpilot-2.7.0.apk) |
+| Handbuch (PDF, 43 Seiten) | [Revierpilot-Handbuch.pdf](https://raw.githubusercontent.com/Tropper71/Revierpilot/main/docs/Revierpilot-Handbuch.pdf) |
 
 ### So installierst du die App
 1. Den Link oben auf dem Handy antippen und die APK herunterladen.
 2. Die Datei öffnen. Beim ersten Mal fragt Android, ob Apps aus dieser Quelle installiert werden dürfen: einmal erlauben.
 3. Warnt Google Play Protect, *Trotzdem installieren* wählen. Das ist bei Apps außerhalb des Play Stores normal.
-4. Tipp: In den Android-Einstellungen die Akku-Optimierung für Revierblick auf *Nicht eingeschränkt* stellen, damit Meldungen pünktlich kommen.
+4. Tipp: In den Android-Einstellungen die Akku-Optimierung für Revierpilot auf *Nicht eingeschränkt* stellen, damit Meldungen pünktlich kommen.
 
-**Update:** Neue Versionen einfach über die alte installieren, alle Daten bleiben erhalten. Ausführliche Anleitung im Handbuch, Kapitel 2.
+**Update:** Neue Versionen einfach über die alte installieren, alle Daten bleiben erhalten. Das gilt auch für Versionen, die noch unter einem früheren Namen installiert sind. Ausführliche Anleitung im Handbuch, Kapitel 2.
 
 **Jagdrecht:** Die Jagdzeiten werden wöchentlich gegen die amtlichen Quellen geprüft. Die App meldet neue Fassungen und übernimmt sie erst nach deiner Bestätigung.
 
 > Keine Rechtsberatung. Maßgeblich sind die amtlich verkündeten Vorschriften und die Anordnungen deiner Jagdbehörde.
 
-## Neu in Version 2.6: Anschuss an den Schweißhundeführer melden
+## Neu in Version 2.7.0: Neuer Name Revierpilot
+
+Die App heißt jetzt **Revierpilot**. Ein Update über die installierte Version behält alle Daten. Die Update-Adresse für die Rechtsdaten stellt die App selbst auf das umbenannte Repository um.
+
+## Seit Version 2.6: Anschuss an den Schweißhundeführer melden
 
 Mit **Melden** an einer offenen Nachsuche gehen alle Angaben zum Anschuss per WhatsApp, SMS oder E-Mail an den hinterlegten Schweißhundeführer:
 
@@ -105,14 +109,15 @@ Ein Tipp auf **Passende Stände jetzt finden** (in der Ansitzplanung, als Karte 
 
 | Version | Datum | Inhalt |
 |---|---|---|
-| **2.6.1** | 15.11.2026 | Treffpunkt in der Anschussmeldung frei wählbar (keiner, Auto-Standort oder freie Position per GPS, Karte oder Koordinaten), nicht mehr automatisch das Auto; Handbuch 43 Seiten |
+| **2.7.0** | 15.11.2026 | Neuer Name **Revierpilot**, Update-Adresse auf das umbenannte Repository *Revierpilot* umgestellt, frühere Standardadressen werden automatisch ersetzt; Handbuch angepasst |
+| 2.6.1 | 15.11.2026 | Treffpunkt in der Anschussmeldung frei wählbar (keiner, Auto-Standort oder freie Position per GPS, Karte oder Koordinaten), nicht mehr automatisch das Auto; Handbuch 43 Seiten |
 | 2.6.0 | 15.11.2026 | Anschuss per WhatsApp, SMS oder E-Mail an den Schweißhundeführer melden, Kontakte mit E-Mail und bearbeitbar; Handbuch auf 42 Seiten erweitert |
 | 2.5.0 | 15.11.2026 | Wetterkarte mit Satellit, Radar, Radarvorhersage und Vorhersagefilm 48 h; Handbuch auf 40 Seiten erweitert |
 | 2.4.0 | 15.11.2026 | Messwerkzeug mit eigenem Knopf: Strecke, vom Standort, ab Stand, Fläche; Handbuch auf 38 Seiten erweitert |
 | 2.3.0 | 15.11.2026 | Auto-Standort per GPS merken, Führung zum Auto mit Pfeil und Entfernung, Fehler in der Standwahl bei Seitenwind behoben, Handbuch auf 37 Seiten erweitert |
 | 2.2.0 | 13.11.2026 | Intelligente Standwahl auf Knopfdruck, Feld *Anmarsch kommt aus*, Handbuch auf 35 Seiten erweitert |
-| 2.1.1 | 11.11.2026 | Update-Adresse auf das umbenannte Repository *Revierblick* umgestellt, alte Adresse wird automatisch ersetzt |
-| 2.1.0 | 11.11.2026 | Neuer Name **Revierblick** (vorher Revierkompass), Lizenzangaben ergänzt |
+| 2.1.1 | 11.11.2026 | Update-Adresse auf das umbenannte Repository umgestellt, alte Adresse wird automatisch ersetzt |
+| 2.1.0 | 11.11.2026 | Neuer App-Name (vorher Revierkompass), Lizenzangaben ergänzt |
 | 2.0.8 | 10.11.2026 | basemap.de-Karte wird wieder angezeigt, Hinweis bei nicht erreichbarer Grundkarte |
 | 2.0.7 | 10.11.2026 | Neues Icon, Hinweise zu Haftung und Datenschutz beim ersten Start, Seite *Über die App* mit Lizenzen |
 | 2.0.5 bis 2.0.6 | 10.11.2026 | Jagdzeiten nur noch aus amtlichen Quellen, Qualitätsstufe je Bundesland, Länderdaten per Online-Update |
@@ -123,7 +128,7 @@ Ein Tipp auf **Passende Stände jetzt finden** (in der Ansitzplanung, als Karte 
 Die App lädt die Rechtsdaten über diese Adresse:
 
 ```
-https://raw.githubusercontent.com/Tropper71/Revierblick/main/rechtsdaten.json
+https://raw.githubusercontent.com/Tropper71/Revierpilot/main/rechtsdaten.json
 ```
 
 - `wildarten`, `gesetz`, `verordnung`: Brandenburg (BbgJagdG, BbgJagdDV, JagdZeitV)
@@ -138,7 +143,7 @@ Verlagstabellen werden nicht verwendet. Die Datei wird jede Woche gegen die amtl
 ## Lizenz
 
 - **Rechtsdaten** (`rechtsdaten.json`): CC0 1.0 Universal, siehe [LICENSE](LICENSE). Die Datei LICENSE gilt nur für die Rechtsdaten.
-- **App, Handbuch, Formulare und Bilder** (`app/`, `docs/Revierblick-Handbuch.pdf`, `docs/formulare/`, `icon.png`, `social-preview.png`): © 2026 Tropper71. Kostenlose Nutzung und unveränderte Weitergabe erlaubt, alle übrigen Rechte vorbehalten.
+- **App, Handbuch, Formulare und Bilder** (`app/`, `docs/Revierpilot-Handbuch.pdf`, `docs/formulare/`, `icon.png`, `social-preview.png`): © 2026 Tropper71. Kostenlose Nutzung und unveränderte Weitergabe erlaubt, alle übrigen Rechte vorbehalten.
 - **Bausteine Dritter in der App:** Leaflet (BSD-2-Clause), Schriften Barlow und Barlow Condensed (SIL Open Font License 1.1). Satellitenbilder © EUMETSAT, Radar und Warnungen: Deutscher Wetterdienst, Wetterdaten: Open-Meteo (CC BY 4.0). Die Lizenztexte stehen in der App unter *Mehr > Über die App*.
 
 ## Haftungsausschluss
