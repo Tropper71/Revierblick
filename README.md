@@ -6,16 +6,16 @@
 
 | | |
 |---|---|
-| **Aktuelle Version** | 2.3.0 vom 15.11.2026 |
+| **Aktuelle Version** | 2.4.0 vom 15.11.2026 |
 | **Android** | 7.0 oder neuer |
 | **Rechtsdaten** | Fassung 2026-11-10.3, wöchentlich gegen amtliche Quellen geprüft |
-| **Handbuch** | 37 Seiten, passend zu Version 2.3.0 |
+| **Handbuch** | 38 Seiten, passend zu Version 2.4.0 |
 
 ## Herunterladen
 
 | Datei | Download |
 |---|---|
-| App, Version 2.3.0 | [Revierblick-2.3.0.apk](https://raw.githubusercontent.com/Tropper71/Revierblick/main/app/Revierblick-2.3.0.apk) |
+| App, Version 2.4.0 | [Revierblick-2.4.0.apk](https://raw.githubusercontent.com/Tropper71/Revierblick/main/app/Revierblick-2.4.0.apk) |
 | Handbuch (PDF) | [Revierblick-Handbuch.pdf](https://raw.githubusercontent.com/Tropper71/Revierblick/main/docs/Revierblick-Handbuch.pdf) |
 
 ### Installation
@@ -25,7 +25,17 @@
 
 **Update:** Neue Versionen einfach über die vorhandene installieren. Alle Daten bleiben erhalten, auch beim Wechsel von Revierkompass, Revierbuch oder Revierwetter. Ausführliche Anleitung im Handbuch, Kapitel 2.
 
-## Neu in Version 2.3.0: Auto-Standort und Weg zum Auto
+## Neu in Version 2.4.0: Entfernung und Fläche messen
+
+Das **Lineal** in der Kartenleiste startet das Messwerkzeug direkt auf der Karte:
+
+- **Strecke:** Punkte antippen, angezeigt werden Gesamtlänge, letzte Teilstrecke und Richtung. Jede Teilstrecke und die Summe stehen auch auf der Karte
+- **Vom Standort:** Startpunkt ist die eigene GPS-Position. Ein Tipp auf das Ziel zeigt Entfernung und Richtung
+- **Fläche:** Eckpunkte antippen, angezeigt werden Fläche in m² oder ha und Umfang, etwa für Wildschäden oder Wildäcker
+- **Ab einem Stand:** Im Fenster einer Einrichtung startet *Messen* mit dem Stand als Startpunkt, zum Beispiel für Schussentfernungen zu Wechseln und Kirrungen
+- Zurück, Neu und Fertig; ein Tipp auf eine Einrichtung setzt den Punkt genau auf deren Position
+
+## Seit Version 2.3.0: Auto-Standort und Weg zum Auto
 
 Vor dem Ansitz oder bevor du als Treiber oder Schütze zur Drückjagd aufbrichst, merkst du dir mit einem Tipp, wo das Auto steht. Nach der Jagd führt dich die App auf direktem Weg zurück.
 
@@ -57,6 +67,7 @@ Ein Tipp auf **Passende Stände jetzt finden** (in der Ansitzplanung, als Karte 
 - **Karte:** basemap.de, Luftbild und Flurstücke Brandenburg, OpenStreetMap, OpenTopoMap; Einrichtungen, Witterungsfahnen, Windpfeile, Entfernungsringe 100, 200 und 300 m, Messen, Pirschwege, Offline-Karten
 - **Jagdbuch:** Ansitzbuch, Strecke, Nachsuche mit Anschuss und Wartezeit, Abschussplan, Wildschaden
 - **Jagdrecht:** Jagdzeiten aller 16 Länder, für Brandenburg mit BbgJagdG, BbgJagdDV und Artenliste; Rechtsdaten per Online-Update mit Vorschau der Änderungen
+- **Messen:** Strecke, Entfernung vom eigenen Standort oder ab einem Stand, Fläche mit Umfang
 - **Auto-Standort:** Auto per GPS merken und mit Pfeil und Entfernung zurückfinden
 - **Mehr:** Reviere teilen, Fristen und Nachweise, Drückjagdplanung mit Schussfeldern, Export nach Excel, KML, GeoJSON und GPX, Datensicherung
 - Darstellung Dunkel, Hell und Rotlicht, Widget für den Startbildschirm
@@ -65,7 +76,8 @@ Ein Tipp auf **Passende Stände jetzt finden** (in der Ansitzplanung, als Karte 
 
 | Version | Datum | Inhalt |
 |---|---|---|
-| **2.3.0** | 15.11.2026 | Auto-Standort per GPS merken, Führung zum Auto mit Pfeil und Entfernung, Fehler in der Standwahl bei Seitenwind behoben, Handbuch auf 37 Seiten erweitert |
+| **2.4.0** | 15.11.2026 | Messwerkzeug mit eigenem Knopf: Strecke, vom Standort, ab Stand, Fläche; Handbuch auf 38 Seiten erweitert |
+| 2.3.0 | 15.11.2026 | Auto-Standort per GPS merken, Führung zum Auto mit Pfeil und Entfernung, Fehler in der Standwahl bei Seitenwind behoben, Handbuch auf 37 Seiten erweitert |
 | 2.2.0 | 13.11.2026 | Intelligente Standwahl auf Knopfdruck, Feld *Anmarsch kommt aus*, Handbuch auf 35 Seiten erweitert |
 | 2.1.1 | 11.11.2026 | Update-Adresse auf das umbenannte Repository *Revierblick* umgestellt, alte Adresse wird automatisch ersetzt |
 | 2.1.0 | 11.11.2026 | Neuer Name **Revierblick** (vorher Revierkompass), Lizenzangaben ergänzt |
