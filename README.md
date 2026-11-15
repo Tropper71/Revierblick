@@ -24,7 +24,7 @@
 3. Warnt Google Play Protect, *Trotzdem installieren* wählen. Das ist bei Apps außerhalb des Play Stores normal.
 4. Tipp: In den Android-Einstellungen die Akku-Optimierung für Revierblick auf *Nicht eingeschränkt* stellen, damit Meldungen pünktlich kommen.
 
-**Update:** Neue Versionen einfach über die alte installieren, alle Daten bleiben erhalten. Das gilt auch beim Wechsel von Revierkompass, Revierbuch oder Revierwetter. Ausführliche Anleitung im Handbuch, Kapitel 2.
+**Update:** Neue Versionen einfach über die alte installieren, alle Daten bleiben erhalten. Ausführliche Anleitung im Handbuch, Kapitel 2.
 
 **Jagdrecht:** Die Jagdzeiten werden wöchentlich gegen die amtlichen Quellen geprüft. Die App meldet neue Fassungen und übernimmt sie erst nach deiner Bestätigung.
 
